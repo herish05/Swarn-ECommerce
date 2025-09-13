@@ -1,0 +1,123 @@
+[
+    {
+      "id" : "mens_ring_0",
+      "img": "https://www.giva.co/cdn/shop/files/R01205_1_c1c1f020-91f7-4c7a-a50b-d15ae2c9158d.jpg?v=1717679741&width=713",
+      "name": "Golden Prominence Ring",
+      "price": "1,799"
+    },
+    {
+      "id" : "mens_ring_1",
+      "img": "https://www.giva.co/cdn/shop/files/R01035_1.jpg?v=1717675715&width=713",
+      "name": "Silver Rope Ring",
+      "price": "1,799"
+    },
+    {
+      "id" : "mens_ring_2",
+      "img": "https://www.giva.co/cdn/shop/files/R01114_1.jpg?v=1719488799&width=713",
+      "name": "Silver Modern Simplicity Mens_rings",
+      "price": "1,599"
+    },
+    {
+      "id" : "mens_ring_3",
+      "img":"https://www.giva.co/cdn/shop/files/R0362_1.jpg?v=1719493732&width=713",
+      "name": "Golden Warrior Prince Ring",
+      "price": "2,199"
+    },
+    {
+      "id" : "mens_ring_4",
+      "img" : "https://www.giva.co/cdn/shop/files/R0447_1.jpg?v=1717680382&width=713",
+      "name" : "Silver Black Stone Ring" ,
+      "price" : "3,999"
+    },
+    {
+      "id" : "mens_ring_5",
+      "img" : "https://www.giva.co/cdn/shop/files/R01740_1_e811078f-b6a2-4837-918d-c27e9eef0e7f.jpg?v=1717678084&width=1946",
+      "name" : "Dual Tone Charismatic Ring",
+      "price" : "2,799"
+    },
+    {
+      "id" : "mens_ring_6",
+      "img" : "https://www.giva.co/cdn/shop/files/R01284_1_daa4c9e6-9471-4b3d-a960-6f17ca0bdf93.jpg?v=1717675761&width=713",
+      "name" : "Golden Square in Rectangle Ring" ,
+      "price" : "2,399"
+    },
+    {
+      "id" : "mens_ring_7",
+      "img" : "https://www.giva.co/cdn/shop/files/R01673_1_44995873-d2a7-4507-b94d-c4ce3b17dcbc.jpg?v=1717680476&width=713",
+      "name" : "Silver Om Shiva Ring" ,
+      "price" : "1,799"
+    },
+    {
+      "id" : "mens_ring_8",
+      "img" : "https://www.giva.co/cdn/shop/files/R01765_1.jpg?v=1712235166&width=713",
+      "name" : "Black Rhodium Truly Bold Ring" ,
+      "price" : "3,399"
+    },
+    {
+      "id" : "mens_ring_9",
+      "img" : "https://www.giva.co/cdn/shop/files/R0578_1-min.jpg?v=1718880242&width=713",
+      "name" : "Golden Rise Star Ring" ,
+      "price" : "4,199"
+    },
+    {
+      "id" : "mens_ring_10",
+      "img" : "https://www.giva.co/cdn/shop/files/R01236_1.jpg?v=1718877465&width=713",
+      "name" : "Golden Roar Of Lion Ring" ,
+      "price" : "4,799"
+    },
+    {
+      "id" : "mens_ring_11",
+      "img" : "https://www.giva.co/cdn/shop/files/R01097_1-min.jpg?v=1718194302&width=713",
+      "name" : "Golden Tenor Ring" ,
+      "price" : "3,399"
+    },
+    {
+      "id" : "mens_ring_12",
+      "img" : "https://www.giva.co/cdn/shop/files/R01307_1.jpg?v=1719488953&width=713",
+      "name" : "Silver Life's Milestones Ring" ,
+      "price" : "3,999"
+    },
+    {
+      "id" : "mens_ring_13",
+      "img" : "https://www.giva.co/cdn/shop/files/R01240_1-min.jpg?v=1718880319&width=713",
+      "name" : "Golden Zircon Glory Ring" ,
+      "price" : "2,299"
+    },
+    {
+      "id" : "mens_ring_14",
+      "img" : "https://www.giva.co/cdn/shop/files/R01760_1_2d4524a6-bdec-4a80-9a35-7d9062613fe7.jpg?v=1718877598&width=713",
+      "name" : "Dual Tone Confidence Band Ring" ,
+      "price" : "2,899"
+    },
+    {
+      "id" : "mens_ring_15",
+      "img" : "https://www.giva.co/cdn/shop/files/R01281_1-min.jpg?v=1718880357&width=1946",
+      "name" : "Silver Adam's Tree Ring" ,
+      "price" : "2,499"
+    },
+    {
+      "id" : "mens_ring_16",
+      "img" : "https://www.giva.co/cdn/shop/files/R0646_1_db51decb-5c4a-41f5-ac9b-7e46b60c7991.jpg?v=1719488720&width=713",
+      "name" : "Silver Classic Ring Band" ,
+      "price" : "1,199"
+    },
+    {
+        "id" : "mens_ring_17",
+        "img" : "https://www.giva.co/cdn/shop/files/R01477_1-min.jpg?v=1718880391&width=713",
+        "name" : "Silver Zircon Square Ring" ,
+        "price" : "2,699"
+    },
+    {
+        "id" : "mens_ring_18",
+        "img" : "https://www.giva.co/cdn/shop/files/R01793_1_31c1c333-2c67-4e4c-a02f-935de5d1de40.jpg?v=1726572323&width=713",
+        "name" : "Silver Classic Linking Ring" ,
+        "price" : "2,499"
+    },
+    {
+        "id" : "mens_ring_19",
+        "img" : "https://www.giva.co/cdn/shop/files/R01814_1_8f0c6285-8d37-4b3a-90bf-bb687721515e.jpg?v=1722936312&width=713",
+        "name" : "Silver Racy Tortoise Ring" ,
+        "price" : "2,799"
+      }
+  ]
+  

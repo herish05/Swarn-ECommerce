@@ -1,0 +1,75 @@
+[
+    {
+      "id" : "mens_bracelet_0",
+      "img": "https://www.giva.co/cdn/shop/files/BR0330_1.jpg?v=1719488440&width=713",
+      "name": "Silver Classy Link Bracelet",
+      "price": "5,499"
+    },
+    {
+      "id" : "mens_bracelet_1",
+      "img": "https://www.giva.co/cdn/shop/files/BR0968_1_5993fc01-68ce-441c-93be-ecc2a5bb1c52.jpg?v=1718880462&width=713",
+      "name": "Silver Trooper Bracelet",
+      "price": "2,799"
+    },
+    {
+      "id" : "mens_bracelet_2",
+      "img": "https://www.giva.co/cdn/shop/files/BR0967_1.jpg?v=1720515959&width=713",
+      "name": "Silver Warrior Mode Bracelet",
+      "price": "4,699"
+    },
+    {
+      "id" : "mens_bracelet_3",
+      "img":"https://www.giva.co/cdn/shop/files/BR0328_1.jpg?v=1719488417&width=713",
+      "name": "Silver Jazzy Link Bracelet",
+      "price": "5,199"
+    },
+    {
+      "id" : "mens_bracelet_4",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+      "name" : "Silver Highness Bracelet For Him" ,
+      "price" : "9,999"
+    },
+    {
+      "id" : "mens_bracelet_5",
+      "img" : "https://www.giva.co/cdn/shop/products/BR0763_1.jpg?v=1674137994&width=713",
+      "name" : "Silver Classic Bracelet",
+      "price" : "5,499"
+    },
+    {
+      "id" : "mens_bracelet_6",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01083_1.jpg?v=1723123914&width=713",
+      "name" : "Silver Classic Bold Bracelet For Him" ,
+      "price" : "6,999"
+    },
+    {
+      "id" : "mens_bracelet_7",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01080_1.jpg?v=1723640834&width=713",
+      "name" : "Silver Courage Bracelet For Him" ,
+      "price" : "8,299"
+    },
+    {
+      "id" : "mens_bracelet_8",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01081_1_1.jpg?v=1724217937&width=713",
+      "name" : "Silver Primera Bracelet For Him" ,
+      "price" : "5,999"
+    },
+    {
+      "id" : "mens_bracelet_9",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01051_1.jpg?v=1718878228&width=713",
+      "name" : "Silver Delink Bracelet For Him" ,
+      "price" : "4,299"
+    },
+    {
+      "id" : "mens_bracelet_10",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01059_1.jpg?v=1717677379&width=713",
+      "name" : "Silver Wave Bracelet For Him" ,
+      "price" : "9,999"
+    },
+    {
+      "id" : "mens_bracelet_11",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01079_1_25a52f19-155d-48ea-a30b-84e59b9e4a4c.jpg?v=1724317371&width=713",
+      "name" : "Silver Kingpin Bracelet" ,
+      "price" : "7,999"
+    }
+  ]
+  

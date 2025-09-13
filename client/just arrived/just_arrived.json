@@ -1,0 +1,128 @@
+[
+  {
+    "id" : "just_arrived_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD02412_1.jpg?v=1716989091&width=713",
+    "name": "Rose Gold Fly In Pink Necklace",
+    "price": "2,399"
+  },
+  {
+    "id" : "just_arrived_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01681_1.jpg?v=1716990520&width=713",
+    "name": "Rose Gold Pink Ruffles Ring",
+    "price": "1,999"
+  },
+  {
+    "id" : "just_arrived_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02402_1.jpg?v=1716988802&width=713",
+    "name": "Rose Gold Swinging Bird Pendant with Link Chain",
+    "price": "3,099"
+  },
+  {
+    "id" : "just_arrived_3",
+    "img":"https://www.giva.co/cdn/shop/files/A0284_5.jpg?v=1714974255&width=360",
+    "name": "Rose Gold Follow Love Anklet",
+    "price": "2,099"
+  },
+  {
+    "id" : "just_arrived_4",
+    "img" : "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+    "name" : "Silver Highness Bracelet For Him" ,
+    "price" : "9,999"
+  },
+  {
+    "id" : "just_arrived_5",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0958_1-min.jpg?v=1701349428&width=713",
+    "name" : "Rose Gold Sparkle In Grace Bangle Bracelet",
+    "price" : "6,199"
+  },
+  {
+    "id" : "just_arrived_6",
+    "img" : "https://www.giva.co/cdn/shop/files/PD0228_R01613_5.jpg?v=1714042930&width=360",
+    "name" : "Rose Gold Pink Quartz Flower Set of Two" ,
+    "price" : "3,999"
+  },
+  {
+    "id" : "just_arrived_7",
+    "img" : "https://www.giva.co/cdn/shop/files/R071_PD02289_ER02623_BR0927_1.jpg?v=1714042352&width=713",
+    "name" : "Silver Studded Rose Set of Four" ,
+    "price" : "11,799"
+  },
+  {
+    "id" : "just_arrived_8",
+    "img" : "https://www.giva.co/cdn/shop/files/R01759_3.jpg?v=1714657193&width=713",
+    "name" : "Silver Floret Charm Ring" ,
+    "price" : "3,999"
+  },
+  {
+    "id" : "just_arrived_9",
+    "img" : "https://www.giva.co/cdn/shop/files/NP0181_1_ba52b0fb-a7d0-4fdd-9a13-085fde0c8210.jpg?v=1723116962&width=713",
+    "name" : "Rose Gold Aaj Sajeya Nath" ,
+    "price" : "5,199"
+  },
+  {
+    "id" : "just_arrived_10",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02459_1.jpg?v=1717677940&width=713",
+    "name" : "Silver Sporty Chain For Him" ,
+    "price" : "15,999"
+  },
+  {
+    "id" : "just_arrived_11",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02726_1.jpg?v=1720089743&width=713",
+    "name" : "Golden Work Hoop Earrings" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "just_arrived_12",
+    "img" : "https://www.giva.co/cdn/shop/files/BR01080_1.jpg?v=1723640834&width=713",
+    "name" : "Silver Courage Bracelet For Him" ,
+    "price" : "8,299"
+  },
+  {
+    "id" : "just_arrived_13",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02449_1.jpg?v=1724835846&width=713",
+    "name" : "Rose Gold Brilliant Red Eyebright Trio Necklace" ,
+    "price" : "3,999"
+  },
+  {
+    "id" : "just_arrived_14",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02714_1_1.jpg?v=1724837942&width=713",
+    "name" : "Silver Snowy Safed Musli Earrings" ,
+    "price" : "3,599"
+  },
+  {
+    "id" : "just_arrived_15",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02428_1.jpg?v=1724836776&width=713",
+    "name" : "Golden Crescent Zircon Necklace" ,
+    "price" : "2,899"
+  },
+  {
+    "id" : "just_arrived_16",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02653_PD02421_1.jpg?v=1725533628&width=713",
+    "name" : "Silver Zircon Excess Set" ,
+    "price" : "7,299"
+  },
+  {
+    "id" : "just_arrived_17",
+    "img": "https://www.giva.co/cdn/shop/files/PD02515_1_1bf834a2-13b7-4802-93d6-7d9e94964d16.jpg?v=1728026727&width=713",
+    "name": "Rose Gold Kamala Necklace",
+    "price": "3,299"
+  },
+  {
+    "id" : "just_arrived_18",
+    "img": "https://www.giva.co/cdn/shop/files/ER02793_1_c14761f3-efba-4d64-9fd4-26ea0ee43d47.jpg?v=1727930049&width=713",
+    "name": "Rose Gold Mor Earrings",
+    "price": "3,799"
+  },
+  {
+    "id" : "just_arrived_19",
+    "img":"https://www.giva.co/cdn/shop/files/ER02791_1.jpg?v=1728568348&width=713",
+    "name": "Rose Gold Sundar Mor Jhumki",
+    "price": "5,499"
+  },
+  {
+    "id" : "just_arrived_20",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02509_1.jpg?v=1728569022&width=713",
+    "name" : "Rose Gold Adwitiya Morni Necklace" ,
+    "price" : "2,999"
+  }
+]

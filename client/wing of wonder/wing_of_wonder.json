@@ -1,0 +1,56 @@
+[
+  {
+    "id" : "wings_of_wonder_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR0996_1.jpg?v=1716988930&width=713",
+    "name": "Rose Gold Wing Charm Bracelet",
+    "price": "1,899"
+  },
+  {
+    "id" : "wings_of_wonder_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01687_1.jpg?v=1716988570&width=713",
+    "name": "Rose Gold Feathered Love Ring",
+    "price": "1,899"
+  },
+  {
+    "id" : "wings_of_wonder_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02412_ER02639_1.jpg?v=1716989119&width=713",
+    "name": "Rose Gold Fly In Pink Set",
+    "price": "3,799"
+  },
+  {
+    "id" : "wings_of_wonder_3",
+    "img":"https://www.giva.co/cdn/shop/files/ER02639_1.jpg?v=1716989052&width=713",
+    "name": "Rose Gold Fly In Pink Earrings",
+    "price": "1,499"
+  },
+  {
+    "id" : "wings_of_wonder_4",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02412_1.jpg?v=1716989091&width=713",
+    "name" : "Rose Gold Fly In Pink Necklace" ,
+    "price" : "2,399"
+  },
+  {
+    "id" : "wings_of_wonder_5",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02402_1.jpg?v=1716988802&width=713",
+    "name" : "Rose Gold Swinging Bird Pendant with Link Chain",
+    "price" : "3,099"
+  },
+  {
+    "id" : "wings_of_wonder_6",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02635_1_1dcb49ff-74c0-4938-abb8-461b400470be.jpg?v=1717239722&width=713",
+    "name" : "Rose Gold Winged Dangler Earrings" ,
+    "price" : "1,999"
+  },
+  {
+    "id" : "wings_of_wonder_7",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02405_1.jpg?v=1716991124&width=713",
+    "name" : "Rose Gold Wing Flap Pendant With Link Chain" ,
+    "price" : "3,499"
+  },
+  {
+    "id" : "wings_of_wonder_8",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02404_1.jpg?v=1717065994&width=713",
+    "name" : "Rose Gold Curled Wing Pendant With Link Chain" ,
+    "price" : "3,499"
+  }
+]

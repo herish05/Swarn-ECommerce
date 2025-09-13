@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Swarn</title>
+    <link
+      rel="icon"
+      href="images/swarn-favicon-color.png"
+      type="image/icon type"
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+  </head>
+  <body>
+    <header>
+      <div class="offers">
+        <div class="content">Pan India Free Shipping!</div>
+      </div>
+      <div class="nav">
+        <div class="upper-nav">
+          <a href="landingPage.html" class="logo"
+            ><img src="images/swarn-high-resolution-logo-transparent.png" alt=""
+          /></a>
+          <input class="search-bar" type="text" placeholder='Search "Jhumki"' />
+          <div class="nav-icons">
+            <a href="./store/store.html"
+              ><img
+                src="images/storefront_25dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              /><span>Stores</span></a
+            >
+            <a href="./wishlist/wishlist.html"
+              ><img
+                src="images/favorite_25dp_00000_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              />
+              <span>Wishlist</span>
+            </a>
+            <a href="./cart/cart.html" id="cart-a">
+              <span id="cart-icon">0</span>
+              <img
+                src="images/shopping_cart_25dp_00000_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              />
+              <span>Cart</span></a
+            >
+            <a>
+                <div class="p-round">
+                    <p id="p-data"></p>
+                </div>
+                <span id="username"></span>
+            </a>
+            <button id="logout" type="submit">
+                Logout
+            </button>
+          </div>
+        </div>
+        <div class="lower-nav">
+          <ul class="main-filters">
+            <li class="filter">
+              <a href="">Shop by Category</a>
+              <ul class="subFilter">
+                <li><a href="">All</a></li>
+                <li><a href="./rings/rings.html">Rings</a></li>
+                <li><a href="./NecklaceAndPendants/necklace.html">Necklaces & Pendants</a></li>
+                <li><a href="./Bracelet/bracelet.html">Bracelets</a></li>
+                <li><a href="./earring/earring.html">Earrings</a></li>
+                <li><a href="./anklet/anklet.html">Anklets</a></li>
+                
+              </ul>
+            </li>
+            <li class="filter">
+              <a href="">Latest Collection</a>
+              <ul class="subFilter">
+                <a href="./wing of wonder/wing_of_wonder.html"><li>Wings of Wonder</li></a>
+               <a href="./cherry pop/cherry_pop.html"> <li>Cherry Pop Collection</li></a>
+                <a href="./love paris/love_paris.html"><li>Love in Paris</li></a>
+                <a href="./bhumi collection/bhumi_collection.html"><li>The Bhumi Collection</li></a>
+                <a href="./convertible collection/convertible_collection.html"><li>Convertible Collection</li></a>
+                <a href="./just arrived/just_arrived.html"><li>Just Arrived</li></a>
+              </ul>
+            </li>
+            <li class="filter">
+              <a href="">Men's Jewellery</a>
+              <ul class="subFilter">
+                <a href="./mens all/mens_all.html"><li>All</li></a>
+                 <a href="./men rings/men_rings.html"><li>Rings</li></a>
+                <a href="./men pandents/men_pandents.html"> <li>Pendants</li></a>
+                 <a href="./men bracelets/men_bracelets.html"><li>Bracelets</li></a>
+                <a href="./men chains/men_chains.html"><li>Chains</li></a>
+               </ul>
+            </li>
+            <li class="filter">
+              <a href="">Gift Store</a>
+              <ul class="subFilter">
+                <li>SWARN Gift Store</li>
+                <li>Shop by Occasion</li>
+                <li>Shop by Theme</li>
+                <li>Shop by Recipient</li>
+                <li>Shop by Price</li>
+              </ul>
+            </li>
+            <li class="filter"><a href="">Gold with Lab Diamonds</a></li>
+            <li class="filter"><a href="">Offers</a></li>
+            <li class="filter"><a href="">More at Swarn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="nav-placeholder"></div>
+    </header>
+    <section>
+        <div class="carousel-container">
+            <div class="carousel1">
+              <a class="slide" href="./bhumi collection/bhumi_collection.html" style="background-image: url('images/Banner Carousel/Hero_Web_-min.jpg')">
+                    
+              </a>
+                <a class="slide" href="./Bracelet/bracelet.html" style="background-image: url('images/Banner Carousel/Hero_Web_3_-min.jpg');">
+                    
+                </a>
+                <a class="slide" href="./NecklaceAndPendants/necklace.html" style="background-image: url('images/Banner Carousel/Hero_web_Bestsellers-min.jpg');">
+                    
+                </a>
+                <div class="slide" href="./rings/rings.html" style="background-image: url('images/Banner Carousel/LDD_Hero_Web_font_change-min.jpg')">
+                    
+                </div>
+                <a class="slide" style="background-image: url('images/Banner Carousel/Hero_web_International_Shipping-min.jpg')">
+                    
+                </a>
+            </div>
+            <div class="carousel-dots"></div>
+        </div>
+      <div class="wrapper">
+        <ul class="carousel">
+          <li class="card">
+            <div class="img">
+                <a href="./NecklaceAndPendants/necklace.html">
+                    <img src="images/Category Coursel/pink_necklaces_pend_copy.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Pendants</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./rings/rings.html">
+                    <img src="images/Category Coursel/pink_rings_c356f6b3-6547-4e39-9b08-dfdf5ecfc2b0.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Rings</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./earring/earring.html">
+                    <img src="images/Category Coursel/earrings_pink-min.png" alt="" />
+                </a>
+            </div>
+            <h3>Earring</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./Bracelet/bracelet.html">
+                    <img src="images/Category Coursel/pink_br-min.png" alt="" />
+                </a>
+            </div>
+            <h3>Bracelet</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./wing of wonder/wing_of_wonder.html">
+                    <img src="images/Category Coursel/sets_pink.jpeg" alt="" />
+                </a>
+            </div>
+            <h3>Sets</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./anklet/anklet.html">
+                    <img src="images/Category Coursel/anklets_f99dfe60-fc81-457a-ab33-721352c6e672.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Anklets</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./just arrived/just_arrived.html">
+                    <img src="images/Category Coursel/Personaloised_250_x_250-min.png" alt="" />
+                </a>
+            </div>
+            <h3>Personalised</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./mens all/mens_all.html">
+                    <img src="images/Category Coursel/Frame_2609057-min.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Men's</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./cherry pop/cherry_pop.html">
+                    <img src="images/Category Coursel/Mangalsutras_3.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Mangalsutras</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./men chains/men_chains.html">
+                    <img src="images/Category Coursel/Chains-min.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Silver Chains</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="nose-pins/nose-pins.html">
+                    <img src="images/Category Coursel/Nose_pin_250_x_250.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Nose Pins</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./men rings/men_rings.html">
+                    <img src="images/Category Coursel/toe-rings.jpg" alt="" />
+                </a>
+            </div>
+            <h3>Toe Rings</h3>
+        </li>
+        <li class="card">
+            <div class="img">
+                <a href="./men pandents/men_pandents.html">
+                    <img src="images/Category Coursel/Perfume_250_x_250-min.png" alt="" />
+                </a>
+            </div>
+            <h3>Fragrances</h3>
+        </li>
+        </ul>
+    </div>
+    
+    </section>
+
+    <section>
+      <h2 style="text-align: center; padding: 2rem 0">Recommended for You</h2>
+      <div class="card-items" id="recommended-products" style="padding-left: 2%;"></div>
+      <a class="second-carousel" href="./NecklaceAndPendants/necklace.html">
+        <img src="images/pendant_banner.webp" alt="Pendant Banner">
+      </a>
+      <a class="third-carousel" href="./Bracelet/bracelet.html">
+        <img src="images/buy_3_banner-min.webp" alt="Buy 3 and Get offers">
+      </a>
+    </section>
+    <section>
+      <h2 style="text-align: center; padding: 2rem 0">Most Gifted</h2>
+      <div class="card-items" id="recommended-products2" style="padding-left: 2%;"></div>
+    </section>
+    <section >
+      <div>
+        <h2 style="text-align: center;padding-bottom:2rem">Shop by Recipient</h2>
+      </div>
+      <div class="gifted-person">
+        <a href="./mens all/mens_all.html">
+          <div class="person">
+            <img src="images/Him_9_-min.webp" alt="" width="85%" height="350px">
+          </div>
+        </a>
+        <a href="./earring/earring.html">
+          <div class="person">
+            <img src="images/Her_11_-min.webp" alt="" width="85%" height="350px">
+          </div>
+        </a>
+      </div>
+      <br><br>
+     
+        </div>
+        </div>
+      </div>
+      <div class="fourth-carousel">
+        <img src="images/gold_main_banner.webp" alt="Gold Main Banner">
+      </div>
+    </section>
+    <footer>
+        <div class="footer-container">
+            <div class="column">
+                <h2>Quick Links</h2>
+                <ul>
+                    <li><a href="#">Customer Reviews</a></li>
+                    <li><a href="#">Store Locator</a></li>
+                    <li><a href="#">Join Us</a></li>
+                </ul>
+                <p style="padding-top: 2.5rem;font-size:1.2rem">Subscribe for exclusive offers and updates!</p>
+                <form class="subscription-form">
+                    <input type="email" placeholder="Email">
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+            <div class="column">
+                <h2>Info</h2>
+                <ul>
+                  <li><a href="./shipping/shipping.html">Shipping & Returns</a></li>
+                  <li><a href='./privacy policy/privacy_policy.html'>Privacy Policy</a></li>
+                  <li><a href="./terms of service/service.html">Terms of Service</a></li>
+              </ul>
+            </div>
+            <div class="column">
+                <h2 style="margin-bottom: 0.7rem;">Contact us</h2>
+                <p>For any suggestions, queries, or complaints please contact us:</p>
+                <ul>
+                    <li style="margin-bottom: 0.7rem;">Email:</li>
+                    <li style="margin-bottom: 0.7rem;">himanshu0690.be23@chitkara.edu.in</li>
+                    <li style="margin-bottom: 0.7rem;">herish0688.be23@chitkara.edu.in</li>
+                    <li style="margin-bottom: 0.7rem;">kushal0721.be23@chitkara.edu.in</li>
+                    <li style="margin-bottom: 0.7rem;">harshit0685.be23@chitkara.edu.in</li>
+                </ul>
+                <div class="social-media">
+                    <a href="#"><img src="images/linkdin.jfif" alt="LinkedIn"></a>
+                    <a href="#"><img src="images/youtube.jfif" alt="YouTube"></a>
+                    <a href="#"><img src="images/facebook.jfif" alt="Facebook"></a>
+                    <a href="#"><img src="images/ig.jfif" alt="Instagram"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+  <script type="text/javascript">
+    (function(d, t) {
+        var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        v.onload = function() {
+          window.voiceflow.chat.load({
+            verify: { projectID: '66f7ca4c3c065d2f7709ab87' },
+            url: 'https://general-runtime.voiceflow.com',
+            versionID: 'production'
+          });
+        }
+        v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+    })(document, 'script');
+  </script>
+  <script>
+   
+    const recommendedProductsContainer = document.getElementById("recommended-products");
+    const recommendedProductsContainer1 = document.getElementById("recommended-products2");
+
+  const cartData=JSON.parse(localStorage.getItem('cartData'))
+  console.log(cartData)
+    async function addToCart(id) {
+      const allData = await fetch('./all.json').then((res) => res.json());
+      const filterProduct = allData.find((data) => data.id === id);
+      const storeProduct={
+        id:id,
+        quantity:1
+      }
+      cartData.push(storeProduct)
+      localStorage.setItem('cartData',JSON.stringify(cartData))
+      calculateCartIcon();
+      if (filterProduct) {
+        console.log(filterProduct);
+        Toastify({
+          text: 'Added to cart',
+          stopOnFocus: true,
+          duration: 3000,
+          close: true,
+          position: 'right',
+          backgroundColor: '#A8E6A1'
+        }).showToast();
+        
+      } else {
+        console.error("Product not found");
+      }
+    } 
+  
+    const loadRecommendedProducts = async () => {
+      const allData = await fetch('./all.json').then((res) => res.json());
+      const selectedProducts = [];
+      const selectedProducts4=[];
+      while (selectedProducts.length < 8) {
+        const randomIndex = Math.floor(Math.random() * allData.length);
+        if (!selectedProducts.some(item => item.id === allData[randomIndex].id)) {
+          selectedProducts.push(allData[randomIndex]);
+        }
+      }
+      while (selectedProducts4.length < 4) {
+        const randomIndex = Math.floor(Math.random() * allData.length);
+        if (!selectedProducts4.some(item => item.id === allData[randomIndex].id)) {
+          selectedProducts4.push(allData[randomIndex]);
+        }
+      }
+      recommendedProductsContainer.innerHTML = selectedProducts
+        .map((product) => {
+          return `<div class="cards">
+                    <div class="image">
+                      <img src="${product.img}" alt="${product.name}">
+                    </div>
+                    <div class="img-info">
+                      <p style="padding-bottom: 10px; font-size: 18px">${product.name}</p>
+                      <p style="padding-bottom: 5%;">
+                        <span class="dis-price">₹${product.discountedPrice || product.price}</span> 
+                        <span class="price">₹${(parseInt((product.price).replace(/\D/g, "")))*2}</span>
+                      </p>
+                      <button onclick="addToCart('${product.id}')">ADD TO CART</button>
+                    </div>
+                  </div>`;
+        })
+        .join("");
+    
+    recommendedProductsContainer1.innerHTML = selectedProducts4
+    .map((product) => {
+      return `<div class="cards">
+                <div class="image">
+                  <img src="${product.img}" alt="${product.name}">
+                </div>
+                <div class="img-info">
+                  <p style="padding-bottom: 10px; font-size: 18px">${product.name}</p>
+                  <p style="padding-bottom: 5%;">
+                    <span class="dis-price">₹${product.discountedPrice || product.price}</span> 
+                    <span class="price">₹${(parseInt((product.price).replace(/\D/g, "")))*2}</span>
+                  </p>
+                  <button onclick="addToCart('${product.id}')">ADD TO CART</button>
+                </div>
+              </div>`;
+    })
+    .join("");
+};
+    loadRecommendedProducts();
+    function isLoggedIn() {
+      return localStorage.getItem('authToken') !== null;
+    }
+    function calculateCartIcon() {
+      let cartData = JSON.parse(localStorage.getItem('cartData')) || [];
+      
+        let cartIcon = document.getElementById('cart-icon');
+      
+        if (isLoggedIn()) {
+         
+          const itemCount = cartData
+            .map(x => x.quantity)
+            .reduce((x, y) => x + y, 0);
+          cartIcon.innerText = itemCount;
+          cartIcon.style.display = 'block'; 
+        } else {
+          cartIcon.style.display = 'none'; 
+        }
+      }
+      
+      calculateCartIcon();
+      
+  </script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  </body>
+  
+</html>

@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "ring_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR0339_1.jpg?v=1709214938&width=600",
+    "name": "Gold Diamond Ring",
+    "price": "500"
+  },
+  {
+    "id": "ring_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01694_1.jpg?v=1710418002&width=600",
+    "name": "Silver Sapphire Ring",
+    "price": "300"
+  },
+  {
+    "id": "ring_2",
+    "img": "https://www.giva.co/cdn/shop/files/R01340_1.jpg?v=1709213557&width=600",
+    "name": "Platinum Ruby Ring",
+    "price": "750"
+  },
+  {
+    "id": "ring_3",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR0151_1_2f05fe28-9e08-45c9-ada9-5fbd4147b9de.jpg?v=1721797324&width=600",
+    "name": "Gold Vibrant Spirit Diamond Ring",
+    "price": "24,298"
+  },
+  {
+    "id": "ring_4",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR0190_1.jpg?v=1709357098&width=600",
+    "name": "Gold Classic Curvy Diamond Ring",
+    "price": "14,559"
+  },
+  {
+    "id": "ring_5",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR038_1_fe44986a-fbbe-4aeb-a22b-9d8814de066b.jpg?v=1721298055&width=600",
+    "name": "Gold Heartbeat Duo Diamond Ring",
+    "price": "12,509"
+  },
+  {
+    "id": "ring_6",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR0342_1.jpg?v=1714190534&width=600",
+    "name": "Gold Crown Diamond Ring",
+    "price": "12,521"
+  },
+  {
+    "id": "ring_7",
+    "img": "https://www.giva.co/cdn/shop/products/GDLR0203_1_ffad3e5a-7424-4791-b42c-f768f636279b.jpg?v=1714165711&width=713",
+    "name": "Gold Half Moon Diamond Ring",
+    "price": "9,779"
+  },
+  {
+    "id": "ring_8",
+    "img": "https://www.giva.co/cdn/shop/files/R054_1_b37f3b0b-0f56-42c8-954a-98ee4a1ab53b.jpg?v=1715601912&width=600",
+    "name": "Silver Zircon Layered Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "ring_9",
+    "img": "https://www.giva.co/cdn/shop/files/R040_1.jpg?v=1712924871&width=600",
+    "name": "Silver Queen Crown Ring",
+    "price": "2,199"
+  },
+  {
+    "id": "ring_10",
+    "img": "https://www.giva.co/cdn/shop/files/R0744_1.jpg?v=1712235519&width=713",
+    "name": "Golden Daze Ring",
+    "price": "1,099"
+  },
+  {
+    "id": "ring_11",
+    "img": "https://www.giva.co/cdn/shop/files/R0187_1.jpg?v=1694158687&width=713",
+    "name": "Rose Gold Glinting Crown Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "ring_12",
+    "img": "https://www.giva.co/cdn/shop/files/R0636_1_1.jpg?v=1715151725&width=713",
+    "name": "Silver Zircon Beachy Waves Ring",
+    "price": "1,199"
+  },
+  {
+    "id": "ring_13",
+    "img": "https://www.giva.co/cdn/shop/files/R01360_1.jpg?v=1705649722&width=713",
+    "name": "Silver Solitaire Stackable Ring",
+    "price": "3,899"
+  },
+  {
+    "id": "ring_14",
+    "img": "https://www.giva.co/cdn/shop/files/R01649_1.jpg?v=1705494504&width=713",
+    "name": "Rose Gold Adorable Heart Ring",
+    "price": "3,099"
+  },
+  {
+    "id": "ring_15",
+    "img": "https://www.giva.co/cdn/shop/files/R0969_1-min.jpg?v=1690467446&width=713",
+    "name": "Silver Forever Sparkle Statement Ring",
+    "price": "4,999"
+  },
+  {
+    "id": "necklace_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLP0128_1.jpg?v=1688652462&width=713",
+    "name": "Gold Sophisticated Symphony Diamond Pendant",
+    "price": "13,825"
+  },
+  {
+    "id": "necklace_1",
+    "img": "https://www.giva.co/cdn/shop/files/GDLPD0143_1.jpg?v=1694698333&width=713",
+    "name": "Gold Classic Flow Diamond Pendant",
+    "price": "23,491"
+  },
+  {
+    "id": "necklace_2",
+    "img": "https://www.giva.co/cdn/shop/files/GDLPD0242_1_cfded3e9-0d85-4e96-adb0-074463f7da5f.jpg?v=1718257276&width=713",
+    "name": "Gold Bright Flame Diamond Pendant",
+    "price": "21,434"
+  },
+  {
+    "id": "necklace_3",
+    "img": "https://www.giva.co/cdn/shop/files/GDLPD0243_1.jpg?v=1709820571&width=713",
+    "name": "Gold Kanha's Flute Diamond Pendant",
+    "price": "18,099"
+  },
+  {
+    "id": "necklace_4",
+    "img": "https://www.giva.co/cdn/shop/files/PD02318_1.jpg?v=1704370026&width=713",
+    "name": "Silver Love in Circles Necklace",
+    "price": "12,299"
+  },
+  {
+    "id": "necklace_5",
+    "img": "https://www.giva.co/cdn/shop/files/PD01881_1.jpg?v=1683811997&width=713",
+    "name": "Silver Gleaming Bridal Necklace",
+    "price": "24,599"
+  },
+  {
+    "id": "necklace_6",
+    "img": "https://www.giva.co/cdn/shop/files/PD02036_1.jpg?v=1698931445&width=713",
+    "name": "Silver Glittering Hexagon Necklace",
+    "price": "4,999"
+  },
+  {
+    "id": "necklace_7",
+    "img": "https://www.giva.co/cdn/shop/files/PD02112_1.jpg?v=1695300769&width=713",
+    "name": "Golden Radiating Star Necklace",
+    "price": "3,099"
+  },
+  {
+    "id": "necklace_8",
+    "img": "https://www.giva.co/cdn/shop/products/PD0567_1.jpg?v=1644055694&width=713",
+    "name": "Golden Bonding Hearts Pendant With Link Chain",
+    "price": "3,399"
+  },
+  {
+    "id": "necklace_9",
+    "img": "https://www.giva.co/cdn/shop/files/PD01876_1.jpg?v=1691070942&width=713",
+    "name": "Rose Gold Floral Vine Necklace",
+    "price": "3,399"
+  },
+  {
+    "id": "necklace_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD02261_1.jpg?v=1697722147&width=713",
+    "name": "Golden Elegant Eyebright Lariat Necklace",
+    "price": "4,999"
+  },
+  {
+    "id": "necklace_11",
+    "img": "https://www.giva.co/cdn/shop/files/PD01335_1.jpg?v=1694700287&width=713",
+    "name": "Rose Gold Deer Heart Necklace",
+    "price": "2,099"
+  },
+  {
+    "id": "necklace_12",
+    "img": "https://www.giva.co/cdn/shop/files/PD0479_1.jpg?v=1711627761&width=713",
+    "name": "Stay Golden Necklace",
+    "price": "1,799"
+  },
+  {
+    "id": "necklace_13",
+    "img": "https://www.giva.co/cdn/shop/files/PD0559_1.jpg?v=1711631327&width=713",
+    "name": "Rose Gold Whole Heart Necklace",
+    "price": "1,799"
+  },
+  {
+    "id": "necklace_14",
+    "img": "https://www.giva.co/cdn/shop/files/PD02438_1.jpg?v=1711023696&width=713",
+    "name": "Golden Glint Pendant With Link Chain",
+    "price": "1,399"
+  },
+  {
+    "id": "necklace_15",
+    "img": "https://www.giva.co/cdn/shop/files/PD01957_1.jpg?v=1711026365&width=713",
+    "name": "Golden Trigon Pendant With Link Chain",
+    "price": "1,199"
+  },
+  {
+    "id": "bracelet_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR0843_1.jpg?v=1701348330&width=713",
+    "name": "Rose Gold Glimmering Statement Bangle",
+    "price": "6,399"
+  },
+  {
+    "id": "bracelet_1",
+    "img": "https://www.giva.co/cdn/shop/files/BR0825_1.jpg?v=1700136233&width=713",
+    "name": "Silver Zircon Order of Opulence Bangle Bracelet",
+    "price": "5,999"
+  },
+  {
+    "id": "bracelet_2",
+    "img": "https://www.giva.co/cdn/shop/files/BR0952_1.jpg?v=1701349144&width=713",
+    "name": "Rose Gold Magic Of Imagination Bangle",
+    "price": "7,999"
+  },
+  {
+    "id": "bracelet_3",
+    "img": "https://www.giva.co/cdn/shop/files/BR0786_1-min.jpg?v=1689260376&width=713",
+    "name": "Golden Square Bloom Bangle",
+    "price": "7,299"
+  },
+  {
+    "id": "bracelet_4",
+    "img": "https://www.giva.co/cdn/shop/files/BR0115_1.jpg?v=1697120937&width=713",
+    "name": "Silver Woven Leaf Bracelet",
+    "price": "4,099"
+  },
+  {
+    "id": "bracelet_5",
+    "img": "https://www.giva.co/cdn/shop/products/BR0565_1-min.jpg?v=1665071246&width=713",
+    "name": "Golden Tear Drop Sparkly Zircon Bracelet",
+    "price": "3,699"
+  },
+  {
+    "id": "bracelet_6",
+    "img": "https://www.giva.co/cdn/shop/files/BR0939_1_bf7e500e-8996-4fe1-b262-a82c0399d2c2.jpg?v=1709114274&width=713",
+    "name": "Uff Yeh Noor Bracelet",
+    "price": "3,199"
+  },
+  {
+    "id": "bracelet_7",
+    "img": "https://www.giva.co/cdn/shop/files/BR0915_1.jpg?v=1703766167&width=713",
+    "name": "Golden Brahma Kamal Bud Bracelet",
+    "price": "3,599"
+  },
+  {
+    "id": "bracelet_8",
+    "img": "https://www.giva.co/cdn/shop/products/BR0279_1.jpg?v=1639754520&width=713",
+    "name": "Golden Age Bracelet",
+    "price": "2,499"
+  },
+  {
+    "id": "bracelet_9",
+    "img": "https://www.giva.co/cdn/shop/products/BR0629_1.jpg?v=1679575598&width=713",
+    "name": "Golden Square Prism Signature Bracelet",
+    "price": "2,899"
+  },
+  {
+    "id": "bracelet_10",
+    "img": "https://www.giva.co/cdn/shop/files/BR0666_1.jpg?v=1713438704&width=713",
+    "name": "Rose Gold Intertwined In Love Bracelet",
+    "price": "1,799"
+  },
+  {
+    "id": "bracelet_11",
+    "img": "https://www.giva.co/cdn/shop/files/BR0723_1_bb1226ab-7c7b-41d4-984d-7b89424f0a3a.jpg?v=1696593761&width=713",
+    "name": "Silver Deer Heart Bracelet",
+    "price": "1,899"
+  },
+  {
+    "id": "bracelet_12",
+    "img": "https://www.giva.co/cdn/shop/files/BR0924_1.jpg?v=1707402196&width=713",
+    "name": "Rose Gold Pink Quartz Flower Bracelet",
+    "price": "1,699"
+  },
+  {
+    "id": "bracelet_13",
+    "img": "https://www.giva.co/cdn/shop/products/BR0701_1.jpg?v=1709289721&width=713",
+    "name": "Silver Mermaid's Tail Bracelet",
+    "price": "2,099"
+  },
+  {
+    "id": "bracelet_14",
+    "img": "https://www.giva.co/cdn/shop/products/BR0580_1-min.jpg?v=1667539994&width=713",
+    "name": "Anushka Sharma Rose Gold Lotus Bracelet",
+    "price": "1,799"
+  },
+  {
+    "id": "bracelet_15",
+    "img": "https://www.giva.co/cdn/shop/files/BR0922_1.jpg?v=1720176766&width=360",
+    "name": "Silver Falling Dew Bracelet",
+    "price": "1,299"
+  },
+  {
+    "id": "bracelet_16",
+    "img": "https://www.giva.co/cdn/shop/files/BR0544_1.jpg?v=1711627329&width=713",
+    "name": "Golden Planet of Love Infant Bracelet",
+    "price": "1,099"
+  },
+  {
+    "id": "earring_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER020_1.jpg?v=1721888342&width=713",
+    "name": "Gold Classic Solitaire Diamond Stud Earrings",
+    "price": "34,908"
+  },
+  {
+    "id": "earring_1",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER0246_1_abfaadd4-f439-4809-9614-0c68398331e6.jpg?v=1721311154&width=713",
+    "name": "Rose Gold Miracle Diamond Earrings",
+    "price": "28,306"
+  },
+  {
+    "id": "earring_2",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER013_1.jpg?v=1721888203&width=713",
+    "name": "Gold Glitter Diamond Earrings",
+    "price": "37,678"
+  },
+  {
+    "id": "earring_3",
+    "img": "https://www.giva.co/cdn/shop/products/GDLER015_1.jpg?v=1681882197&width=713",
+    "name": "Gold Radiant Drop Diamond Earrings",
+    "price": "23,261"
+  },
+  {
+    "id": "earring_4",
+    "img": "https://www.giva.co/cdn/shop/files/ER02411_1-min.jpg?v=1697723057&width=713",
+    "name": "Rose Gold Ebony Whimsy Dangler Earrings",
+    "price": "8,999"
+  },
+  {
+    "id": "earring_5",
+    "img": "https://www.giva.co/cdn/shop/products/GDLER0118_1_bc86cf16-8aff-4a5e-86ca-2756960a7cf4.jpg?v=1709618517&width=713",
+    "name": "Gold Exquisite Trio Diamond Stud Earrings",
+    "price": "10,099"
+  },
+  {
+    "id": "earring_6",
+    "img": "https://www.giva.co/cdn/shop/files/ER02488_5.jpg?v=1694462256&width=713",
+    "name": "Golden Bewitching Brahma Kamal Convertible Earrings",
+    "price": "3,699"
+  },
+  {
+    "id": "earring_7",
+    "img": "https://www.giva.co/cdn/shop/files/ER02712_1.jpg?v=1724836519&width=713",
+    "name": "Silver Eyebright Hoop Earrings",
+    "price": "4,999"
+  },
+  {
+    "id": "earring_8",
+    "img": "https://www.giva.co/cdn/shop/files/ER02052_1_1.jpg?v=1709190546&width=713",
+    "name": "Rose Gold Filigree Pearl Grace Earrings",
+    "price": "3,899"
+  },
+  {
+    "id": "earring_9",
+    "img": "https://www.giva.co/cdn/shop/files/ER02548_1.jpg?v=1709114471&width=713",
+    "name": "Sawarne Lage Earrings",
+    "price": "3,399"
+  },
+  {
+    "id": "earring_10",
+    "img": "https://www.giva.co/cdn/shop/files/ER02500_1.jpg?v=1696079959&width=713",
+    "name": "Silver Princess Earrings",
+    "price": "1,899"
+  },
+  {
+    "id": "earring_11",
+    "img": "https://www.giva.co/cdn/shop/files/ER0684_1.jpg?v=1703764730&width=713",
+    "name": "The White Periwinkle Earrings",
+    "price": "1,799"
+  },
+  {
+    "id": "earring_12",
+    "img": "https://www.giva.co/cdn/shop/files/ER01966_1.jpg?v=1692861824&width=713",
+    "name": "Rose Gold Wavecrest Earrings",
+    "price": "1,599"
+  },
+  {
+    "id": "earring_13",
+    "img": "https://www.giva.co/cdn/shop/products/ER01784_5.jpg?v=1716455001&width=713",
+    "name": "Rose Gold Romantic Rapture Stud Earrings",
+    "price": "2,299"
+  },
+  {
+    "id": "earring_14",
+    "img": "https://www.giva.co/cdn/shop/products/ER0735_1_-min.jpg?v=1663253039&width=713",
+    "name": "Golden Fluttering Butterfly Earrings",
+    "price": "1,799"
+  },
+  {
+    "id": "earring_15",
+    "img": "https://www.giva.co/cdn/shop/files/ER02106_1.jpg?v=1695302176&width=713",
+    "name": "Silver Bloomfire Zirconia Earrings",
+    "price": "799"
+  },
+  {
+    "id": "earring_16",
+    "img": "https://www.giva.co/cdn/shop/files/ER02087_1.jpg?v=1690461396&width=713",
+    "name": "Golden Mini Floral Earrings",
+    "price": "899"
+  },
+  {
+    "id": "anklet_0",
+    "img": "https://www.giva.co/cdn/shop/files/A0277_5.jpg?v=1715596810&width=360",
+    "name": "Silver Gypsy Gleams Anklet",
+    "price": "1,699"
+  },
+  {
+    "id": "anklet_1",
+    "img": "https://www.giva.co/cdn/shop/files/A0028_5.jpg?v=1716375832&width=713",
+    "name": "Rose Gold Heart Anklet",
+    "price": "3,699"
+  },
+  {
+    "id": "anklet_2",
+    "img": "https://www.giva.co/cdn/shop/files/A0040_5.jpg?v=1715939747&width=713",
+    "name": "Rose Gold Layered Queen's Anklet",
+    "price": "3,099"
+  },
+  {
+    "id": "anklet_3",
+    "img": "https://www.giva.co/cdn/shop/files/A0056_5.jpg?v=1716375923&width=713",
+    "name": "Silver Heart Melting Chain Anklet",
+    "price": "1,399"
+  },
+  {
+    "id": "anklet_4",
+    "img": "https://www.giva.co/cdn/shop/files/A0052_5.jpg?v=1715261254&width=713",
+    "name": "Silver Dangling Triple Leaf Charm Anklet",
+    "price": "3,399"
+  },
+  {
+    "id": "anklet_5",
+    "img": "https://www.giva.co/cdn/shop/files/A0290_5.jpg?v=1721109301&width=713",
+    "name": "Silver Triple Flora Anklet",
+    "price": "1,999"
+  },
+  {
+    "id": "anklet_6",
+    "img": "https://www.giva.co/cdn/shop/files/A0263_5.jpg?v=1715261403&width=713",
+    "name": "Golden Star Constellation Anklet",
+    "price": "2,399"
+  },
+  {
+    "id": "anklet_7",
+    "img": "https://www.giva.co/cdn/shop/products/A073_5.jpg?v=1718279156&width=713",
+    "name": "Silver Infinity Anklet",
+    "price": "4,499"
+  },
+  {
+    "id": "anklet_8",
+    "img": "https://www.giva.co/cdn/shop/files/A0295_5.jpg?v=1724246333&width=713",
+    "name": "Rose Gold Your Simplicity Anklet",
+    "price": "2,499"
+  },
+  {
+    "id": "anklet_9",
+    "img": "https://www.giva.co/cdn/shop/files/A0229_5_8faa45de-eda8-4d6e-b0af-5bac6f3c76f1.jpg?v=1714385537&width=713",
+    "name": "Rose Gold And Golden Cable Chain Anklet",
+    "price": "1,799"
+  },
+  {
+    "id": "anklet_10",
+    "img": "https://www.giva.co/cdn/shop/files/A0161_5.jpg?v=1715939580&width=713",
+    "name": "Golden Elegant Knot Anklet",
+    "price": "2,199"
+  },
+  {
+    "id": "anklet_11",
+    "img": "https://www.giva.co/cdn/shop/files/A0214_5_e28c1ef5-1426-4b67-8cd0-96dc7897ca1e.jpg?v=1716526606&width=713",
+    "name": "Golden Step Up Anklet",
+    "price": "2,899"
+  },
+  {
+    "id": "anklet_12",
+    "img": "https://www.giva.co/cdn/shop/files/A0304_5.jpg?v=1724246396&width=713",
+    "name": "Rose Gold Glowy Leaf Anklet",
+    "price": "3,499"
+  },
+  {
+    "id": "anklet_13",
+    "img": "https://www.giva.co/cdn/shop/products/A0151_5-min.jpg?v=1714385145&width=713",
+    "name": "Rose Gold Geometric Anklet",
+    "price": "6,499"
+  },
+  {
+    "id": "anklet_14",
+    "img": "https://www.giva.co/cdn/shop/files/A0222_5-min.jpg?v=1716008365&width=713",
+    "name": "Silver Zircon Studded Square Anklet",
+    "price": "6,599"
+  },
+  {
+    "id": "anklet_15",
+    "img": "https://www.giva.co/cdn/shop/files/A0182_5-min.jpg?v=1715939637&width=713",
+    "name": "Golden Precious Cowry Anklet",
+    "price": "11,199"
+  },
+  {
+    "id": "anklet_16",
+    "img": "https://www.giva.co/cdn/shop/files/A0224_5.jpg?v=1721219491&width=713",
+    "name": "Golden Belle Of The Ball Anklet",
+    "price": "5,799"
+  },
+  {
+    "id": "anklet_17",
+    "img": "https://www.giva.co/cdn/shop/files/A0159_1.jpg?v=1720793351&width=713",
+    "name": "Golden Stellar Orbs Anklet",
+    "price": "11,099"
+  },
+  {
+    "id": "the_bhumi_collection_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR01016_1.jpg?v=1724837854&width=713",
+    "name": "Silver Embracing Musli Bracelet",
+    "price": "5,999"
+  },
+  {
+    "id": "the_bhumi_collection_1",
+    "img": "https://www.giva.co/cdn/shop/files/PD02453_1.jpg?v=1724837579&width=713",
+    "name": "Rose Gold One in a Trillium Necklace",
+    "price": "3,399"
+  },
+  {
+    "id": "the_bhumi_collection_2",
+    "img": "https://www.giva.co/cdn/shop/files/ER02714_1_1.jpg?v=1724837942&width=713",
+    "name": "Silver Snowy Safed Musli Earrings",
+    "price": "3,599"
+  },
+  {
+    "id": "the_bhumi_collection_3",
+    "img": "https://www.giva.co/cdn/shop/files/ER02712_1.jpg?v=1724836519&width=713",
+    "name": "Silver Eyebright Hoop Earrings",
+    "price": "4,999"
+  },
+  {
+    "id": "the_bhumi_collection_4",
+    "img": "https://www.giva.co/cdn/shop/files/ER02708_1_9f22634b-2f90-497f-8bb2-5090d7a8e784.jpg?v=1724836866&width=713",
+    "name": "Rose Gold Bewitching Brahma Kamal Convertible Earrings",
+    "price": "3,599"
+  },
+  {
+    "id": "the_bhumi_collection_5",
+    "img": "https://www.giva.co/cdn/shop/files/ER02707_1.jpg?v=1724837515&width=713",
+    "name": "Rose Gold Shy Ebony Earrings",
+    "price": "3,299"
+  },
+  {
+    "id": "the_bhumi_collection_6",
+    "img": "https://www.giva.co/cdn/shop/files/R01746_1.jpg?v=1724837389&width=713",
+    "name": "Rose Gold Blue Rising Bell Mallow Ring",
+    "price": "2,199"
+  },
+  {
+    "id": "the_bhumi_collection_7",
+    "img": "https://www.giva.co/cdn/shop/files/R01745_1.jpg?v=1724838002&width=713",
+    "name": "Silver Mountain Ebony Ring",
+    "price": "2,299"
+  },
+  {
+    "id": "the_bhumi_collection_8",
+    "img": "https://www.giva.co/cdn/shop/files/PD02450_1.jpg?v=1724836966&width=713",
+    "name": "Rose Gold Bewitching Brahma Kamal Necklace",
+    "price": "4,599"
+  },
+  {
+    "id": "the_bhumi_collection_9",
+    "img": "https://www.giva.co/cdn/shop/files/PD02449_1.jpg?v=1724835846&width=713",
+    "name": "Rose Gold Brilliant Red Eyebright Trio Necklace",
+    "price": "3,999"
+  },
+  {
+    "id": "the_bhumi_collection_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD02446_1_879ed1d3-4129-4a38-bd9f-0e5e4f8836a5.jpg?v=1724837703&width=713",
+    "name": "Rose Gold Pink Trillium Necklace",
+    "price": "7,999"
+  },
+  {
+    "id": "the_bhumi_collection_11",
+    "img": "https://www.giva.co/cdn/shop/files/PD02261_ER02501_1.jpg?v=1697797664&width=713",
+    "name": "Golden Eye Bright Affection Set",
+    "price": "7,999"
+  },
+  {
+    "id": "the_bhumi_collection_12",
+    "img": "https://www.giva.co/cdn/shop/files/BR0866_PD02191_ER02514_1.jpg?v=1697797407&width=713",
+    "name": "Golden Classic Bell Mallow Set of 3",
+    "price": "12,099"
+  },
+  {
+    "id": "the_bhumi_collection_13",
+    "img": "https://www.giva.co/cdn/shop/files/PD02197_ER02449_1.jpg?v=1694678898&width=713",
+    "name": "Rose Gold Snowy Safed Musli Set",
+    "price": "9,999"
+  },
+  {
+    "id": "the_bhumi_collection_14",
+    "img": "https://www.giva.co/cdn/shop/files/PD02278_1-min-min.jpg?v=1697723162&width=713",
+    "name": "Rose Gold Brahma Kamal Statement Necklace",
+    "price": "17,899"
+  },
+  {
+    "id": "the_bhumi_collection_15",
+    "img": "https://www.giva.co/cdn/shop/files/ER02520_1.jpg?v=1710593725&width=360",
+    "name": "Silver Iconic Eyebright Hoop Earrings",
+    "price": "6,199"
+  },
+  {
+    "id": "the_bhumi_collection_16",
+    "img": "https://www.giva.co/cdn/shop/files/ER02514_1_9475eee8-875c-4850-8f11-e8d2e3a7bf6f.jpg?v=1709191252&width=713",
+    "name": "Golden Classic Bell Mallow Convertible Earrings",
+    "price": "5,599"
+  },
+  {
+    "id": "the_bhumi_collection_17",
+    "img": "https://www.giva.co/cdn/shop/files/R01599_1.jpg?v=1703326391&width=713",
+    "name": "Golden Zirconia Brahma Kamal Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "the_bhumi_collection_18",
+    "img": "https://www.giva.co/cdn/shop/files/ER02508_1.jpg?v=1697722370&width=713",
+    "name": "Golden Elegant Eyebright Sui Dhaga Earrings",
+    "price": "3,999"
+  },
+  {
+    "id": "the_bhumi_collection_19",
+    "img": "https://www.giva.co/cdn/shop/files/ER02504_1.jpg?v=1703772557&width=713",
+    "name": "Rose Gold And Golden Dazzling Musli Ear Cuffs",
+    "price": "6,699"
+  },
+  {
+    "id": "the_bhumi_collection_20",
+    "img": "https://www.giva.co/cdn/shop/products/PD02268_1.jpg?v=1703582060&width=713",
+    "name": "Gold Eye Bright Flower Lariat Necklace",
+    "price": "4,499"
+  },
+  {
+    "id": "the_bhumi_collection_21",
+    "img": "https://www.giva.co/cdn/shop/files/PD02267_1.jpg?v=1697722421&width=713",
+    "name": "Golden Elegant Eyebright Necklace",
+    "price": "3,999"
+  },
+  {
+    "id": "the_bhumi_collection_22",
+    "img": "https://www.giva.co/cdn/shop/files/ER02501_1-min.jpg?v=1697723078&width=713",
+    "name": "Golden Eye Bright Affection Earrings",
+    "price": "2,999"
+  },
+  {
+    "id": "the_bhumi_collection_23",
+    "img": "https://www.giva.co/cdn/shop/files/PD02261_1.jpg?v=1697722147&width=713",
+    "name": "Golden Elegant Eyebright Lariat Necklace",
+    "price": "4,999"
+  },
+  {
+    "id": "the_bhumi_collection_24",
+    "img": "https://www.giva.co/cdn/shop/files/PD02197_5.jpg?v=1694511451&width=360",
+    "name": "Rose Gold Snowy Safed Musli Necklace",
+    "price": "5,599"
+  },
+  {
+    "id": "the_bhumi_collection_25",
+    "img": "https://www.giva.co/cdn/shop/files/ER02432_1_41e422b2-b076-4992-8dc3-b8cf5b942c5c.jpg?v=1709188178&width=713",
+    "name": "Golden Bell Mallow Bud Convertible Earrings",
+    "price": "6,699"
+  },
+  {
+    "id": "the_bhumi_collection_26",
+    "img": "https://www.giva.co/cdn/shop/files/PD02184_1-min.jpg?v=1697723098&width=713",
+    "name": "Rose Gold Shy Ebony Necklace",
+    "price": "6,199"
+  },
+  {
+    "id": "the_bhumi_collection_27",
+    "img": "https://www.giva.co/cdn/shop/files/ER02426_5.jpg?v=1702374453&width=360",
+    "name": "Rose Gold Dance of Musli Earrings",
+    "price": "5,599"
+  },
+  {
+    "id": "the_bhumi_collection_28",
+    "img": "https://www.giva.co/cdn/shop/files/ER02401_1.jpg?v=1694461068&width=713",
+    "name": "Golden Beaming Bell Mallow Cuff Earrings",
+    "price": "2,699"
+  },
+  {
+    "id": "the_bhumi_collection_29",
+    "img": "https://www.giva.co/cdn/shop/files/BR01017_1.jpg?v=1727960623&width=713",
+    "name": "Rose Gold Blossom Mountain Ebony Spin Bracelet",
+    "price": "4,599"
+  },
+  {
+    "id": "cherry_pop_0",
+    "img": "https://www.giva.co/cdn/shop/files/R01637_1.jpg?v=1705913112&width=713",
+    "name": "Silver Princess in Red Ring",
+    "price": "2,099"
+  },
+  {
+    "id": "cherry_pop_1",
+    "img": "https://www.giva.co/cdn/shop/files/ER02577_1.jpg?v=1709618190&width=713",
+    "name": "Silver Better Half Earrings",
+    "price": "1,999"
+  },
+  {
+    "id": "cherry_pop_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02321_1.jpg?v=1709100953&width=713",
+    "name": "Silver Better Half Necklace",
+    "price": "12,299"
+  },
+  {
+    "id": "cherry_pop_3",
+    "img": "https://www.giva.co/cdn/shop/files/ER02583_5.jpg?v=1709618221&width=360",
+    "name": "Rose Gold Queen of Love Earrings",
+    "price": "1,599"
+  },
+  {
+    "id": "cherry_pop_4",
+    "img": "https://www.giva.co/cdn/shop/files/R01664_1.jpg?v=1707546580&width=713",
+    "name": "Rose Gold Lovie Dovie Stackable Rings",
+    "price": "2,899"
+  },
+  {
+    "id": "cherry_pop_5",
+    "img": "https://www.giva.co/cdn/shop/files/R01657_1.jpg?v=1704369893&width=713",
+    "name": "Silver U & Me Ring",
+    "price": "1,699"
+  },
+  {
+    "id": "cherry_pop_6",
+    "img": "https://www.giva.co/cdn/shop/files/PD02351_5.jpg?v=1704370279&width=360",
+    "name": "Silver Heart in Heart Lariat Necklace",
+    "price": "2,499"
+  },
+  {
+    "id": "cherry_pop_7",
+    "img": "https://www.giva.co/cdn/shop/files/PD02346_1.jpg?v=1704370779&width=713",
+    "name": "Rose Gold Falling Dew in Red Pendant With Link Chain",
+    "price": "1,799"
+  },
+  {
+    "id": "cherry_pop_8",
+    "img": "https://www.giva.co/cdn/shop/files/ER02588_1.jpg?v=1704370181&width=713",
+    "name": "Rose Gold Red Baguette Earrings",
+    "price": "1,899"
+  },
+  {
+    "id": "cherry_pop_9",
+    "img": "https://www.giva.co/cdn/shop/files/R01646_1.jpg?v=1704370932&width=713",
+    "name": "Rose Gold Serendipity Ring",
+    "price": "1,299"
+  },
+  {
+    "id": "cherry_pop_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD02331_1.jpg?v=1704370208&width=713",
+    "name": "Rose Gold Queen of Love Necklace",
+    "price": "3,799"
+  },
+  {
+    "id": "cherry_pop_11",
+    "img": "https://www.giva.co/cdn/shop/files/ER02574_5_16fff454-27d6-48a1-af7f-0208676d65d6.jpg?v=1726143182&width=360",
+    "name": "Silver Soulmate Earrings",
+    "price": "1,399"
+  },
+  {
+    "id": "cherry_pop_12",
+    "img": "https://www.giva.co/cdn/shop/files/ER02571_1.jpg?v=1704370293&width=713",
+    "name": "Rose Gold Pretty Woman Earrings",
+    "price": "1,799"
+  },
+  {
+    "id": "cherry_pop_13",
+    "img": "https://www.giva.co/cdn/shop/files/PD02322_1.jpg?v=1704370334&width=713",
+    "name": "Rose Gold Pretty Woman Necklace",
+    "price": "6,699"
+  },
+  {
+    "id": "cherry_pop_14",
+    "img": "https://www.giva.co/cdn/shop/files/PD02318_1.jpg?v=1704370026&width=713",
+    "name": "Silver Love in Circles Necklace",
+    "price": "12,299"
+  },
+  {
+    "id": "cherry_pop_15",
+    "img": "https://www.giva.co/cdn/shop/files/PD02321_ER02577_1.jpg?v=1704546997&width=713",
+    "name": "Silver Better Half Set",
+    "price": "14,099"
+  },
+  {
+    "id": "cherry_pop_16",
+    "img": "https://www.giva.co/cdn/shop/files/PD02322_ER02571_1.jpg?v=1704547023&width=713",
+    "name": "Rose Gold Pretty Woman Set",
+    "price": "8,299"
+  },
+  {
+    "id": "cherry_pop_17",
+    "img": "https://www.giva.co/cdn/shop/files/ER02592_PD02346_1.jpg?v=1704546785&width=713",
+    "name": "Rose Gold Falling Dew in Red Set",
+    "price": "2,999"
+  },
+  {
+    "id": "cherry_pop_18",
+    "img": "https://www.giva.co/cdn/shop/files/PD02331_ER02583_1.jpg?v=1704547080&width=713",
+    "name": "Rose Gold Queen of Love Set",
+    "price": "4,999"
+  },
+  {
+    "id": "cherry_pop_19",
+    "img": "https://www.giva.co/cdn/shop/files/PD02354_1_ac966251-af93-4402-acbb-4ea712e80f6d.jpg?v=1704982678&width=713",
+    "name": "Rose Gold Glory of Love Necklace",
+    "price": "2,899"
+  },
+  {
+    "id": "cherry_pop_20",
+    "img": "https://www.giva.co/cdn/shop/files/R01658_1.jpg?v=1704975354&width=713",
+    "name": "Rose Gold Lover's Cross Ring",
+    "price": "1,899"
+  },
+  {
+    "id": "cherry_pop_21",
+    "img": "https://www.giva.co/cdn/shop/files/PD02348_1_55f1ae4f-78db-4b22-9c42-856c93bb6137.jpg?v=1705037424&width=713",
+    "name": "Rose Gold Whole Heart in Red Necklace",
+    "price": "1,799"
+  },
+  {
+    "id": "cherry_pop_22",
+    "img": "https://www.giva.co/cdn/shop/files/PD02389_1_237758f3-bbe6-428d-9789-8debc120fba5.jpg?v=1705571790&width=713",
+    "name": "Rose Gold One Heart Pendant With Link Chain",
+    "price": "3,999"
+  },
+  {
+    "id": "cherry_pop_23",
+    "img": "https://www.giva.co/cdn/shop/files/PD02339_1_af6b4eb6-23f4-4884-870b-a454a72ba0e5.jpg?v=1705498219&width=713",
+    "name": "Rose Gold I Love You Floral Pendant With Link Chain",
+    "price": "4,299"
+  },
+  {
+    "id": "cherry_pop_24",
+    "img": "https://www.giva.co/cdn/shop/files/R01649_1_2c4b5cef-20da-4d72-857c-9ee14ffc704d.jpg?v=1705494504&width=360",
+    "name": "Rose Gold Adorable Heart Ring",
+    "price": "3,099"
+  },
+  {
+    "id": "cherry_pop_25",
+    "img": "https://www.giva.co/cdn/shop/files/BR0977_5.jpg?v=1706173565&width=360",
+    "name": "Rose Gold Celebrating Love Bracelet",
+    "price": "6,399"
+  },
+  {
+    "id": "cherry_pop_26",
+    "img": "https://www.giva.co/cdn/shop/files/ER02602_1_3637dd04-864c-4bd3-a74e-8c364f9d3c48.jpg?v=1706851159&width=713",
+    "name": "Silver Rise in Love Earrings",
+    "price": "2,799"
+  },
+  {
+    "id": "cherry_pop_27",
+    "img": "https://www.giva.co/cdn/shop/files/R01004_1.jpg?v=1706798852&width=713",
+    "name": "Silver Pinky Faux Stack Ring",
+    "price": "2,899"
+  },
+  {
+    "id": "cherry_pop_28",
+    "img": "https://www.giva.co/cdn/shop/files/R01665_1.jpg?v=1707483172&width=713",
+    "name": "Rose Gold Lover's Arch Stack Rings",
+    "price": "1,999"
+  },
+  {
+    "id": "cherry_pop_29",
+    "img": "https://www.giva.co/cdn/shop/files/PD02355_1.jpg?v=1706796927&width=713",
+    "name": "Rose Gold Grow in Love Necklace",
+    "price": "2,899"
+  },
+  {
+    "id": "convertible_collection_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR044_1_1a105106-d1f1-4f52-ad9b-af966e565d87.jpg?v=1706874592&width=713",
+    "name": "Rose Gold Supple Bracelet",
+    "price": "4,999"
+  },
+  {
+    "id": "convertible_collection_1",
+    "img": "https://www.giva.co/cdn/shop/files/BR0908_1.jpg?v=1711003222&width=713",
+    "name": "Golden Supple Bracelet",
+    "price": "5,399"
+  },
+  {
+    "id": "convertible_collection_2",
+    "img": "https://www.giva.co/cdn/shop/files/ER02507_1_0f846766-f2d9-45a9-ac3f-70448b3a7051.jpg?v=1709191134&width=713",
+    "name": "Rose Gold Eyebright Convertible Earrings",
+    "price": "2,899"
+  },
+  {
+    "id": "convertible_collection_3",
+    "img": "https://www.giva.co/cdn/shop/files/ER02428_5.jpg?v=1703767121&width=360",
+    "name": "Silver Gleaming Musli Convertible Hoop Earrings",
+    "price": "2,899"
+  },
+  {
+    "id": "convertible_collection_4",
+    "img": "https://www.giva.co/cdn/shop/files/R01048_1.jpg?v=1705649191&width=713",
+    "name": "Silver Multi Pattern Ring",
+    "price": "3,399"
+  },
+  {
+    "id": "convertible_collection_5",
+    "img": "https://www.giva.co/cdn/shop/files/PD02341_1_06bcf46e-337d-4ae8-a9e3-4068a9824327.jpg?v=1705497692&width=713",
+    "name": "Rose Gold Heart Riddles Pendant With Link Chain",
+    "price": "4,299"
+  },
+  {
+    "id": "convertible_collection_6",
+    "img": "https://www.giva.co/cdn/shop/files/ER02430_1_c915a7e8-a07a-4a7a-bc04-444d4e201eed.jpg?v=1714654769&width=713",
+    "name": "Golden Mismatch Brahma Kamal Earrings",
+    "price": "4,499"
+  },
+  {
+    "id": "convertible_collection_7",
+    "img": "https://www.giva.co/cdn/shop/files/R01594_1.jpg?v=1714656777&width=713",
+    "name": "Golden Open Bramha Kamal Ring",
+    "price": "3,399"
+  },
+  {
+    "id": "convertible_collection_8",
+    "img": "https://www.giva.co/cdn/shop/files/BR0971_1_-min.jpg?v=1705571248&width=713",
+    "name": "Rose Gold I love You Bracelet",
+    "price": "7,699"
+  },
+  {
+    "id": "convertible_collection_9",
+    "img": "https://www.giva.co/cdn/shop/files/R01322_1.jpg?v=1694463163&width=713",
+    "name": "Rose Gold Bell Mallow Bud Ring",
+    "price": "5,299"
+  },
+  {
+    "id": "convertible_collection_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD02337_1_d1f85091-bf25-4d1f-bf90-b6367533f30d.jpg?v=1705496526&width=713",
+    "name": "Rose Gold You & Me Pendant With Link Chain",
+    "price": "4,299"
+  },
+  {
+    "id": "convertible_collection_11",
+    "img": "https://www.giva.co/cdn/shop/files/R01749_1-min_5e83a004-55f2-4482-8865-b615afda8c62.jpg?v=1724837744&width=360",
+    "name": "Rose Gold Pink Exotic Ebony Ring",
+    "price": "2,499"
+  },
+  {
+    "id": "just_arrived_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD02412_1.jpg?v=1716989091&width=713",
+    "name": "Rose Gold Fly In Pink Necklace",
+    "price": "2,399"
+  },
+  {
+    "id": "just_arrived_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01681_1.jpg?v=1716990520&width=713",
+    "name": "Rose Gold Pink Ruffles Ring",
+    "price": "1,999"
+  },
+  {
+    "id": "just_arrived_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02402_1.jpg?v=1716988802&width=713",
+    "name": "Rose Gold Swinging Bird Pendant with Link Chain",
+    "price": "3,099"
+  },
+  {
+    "id": "just_arrived_3",
+    "img": "https://www.giva.co/cdn/shop/files/A0284_5.jpg?v=1714974255&width=360",
+    "name": "Rose Gold Follow Love Anklet",
+    "price": "2,099"
+  },
+  {
+    "id": "just_arrived_4",
+    "img": "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+    "name": "Silver Highness Bracelet For Him",
+    "price": "9,999"
+  },
+  {
+    "id": "just_arrived_5",
+    "img": "https://www.giva.co/cdn/shop/files/BR0958_1-min.jpg?v=1701349428&width=713",
+    "name": "Rose Gold Sparkle In Grace Bangle Bracelet",
+    "price": "6,199"
+  },
+  {
+    "id": "just_arrived_6",
+    "img": "https://www.giva.co/cdn/shop/files/PD0228_R01613_5.jpg?v=1714042930&width=360",
+    "name": "Rose Gold Pink Quartz Flower Set of Two",
+    "price": "3,999"
+  },
+  {
+    "id": "just_arrived_7",
+    "img": "https://www.giva.co/cdn/shop/files/R071_PD02289_ER02623_BR0927_1.jpg?v=1714042352&width=713",
+    "name": "Silver Studded Rose Set of Four",
+    "price": "11,799"
+  },
+  {
+    "id": "just_arrived_8",
+    "img": "https://www.giva.co/cdn/shop/files/R01759_3.jpg?v=1714657193&width=713",
+    "name": "Silver Floret Charm Ring",
+    "price": "3,999"
+  },
+  {
+    "id": "just_arrived_9",
+    "img": "https://www.giva.co/cdn/shop/files/NP0181_1_ba52b0fb-a7d0-4fdd-9a13-085fde0c8210.jpg?v=1723116962&width=713",
+    "name": "Rose Gold Aaj Sajeya Nath",
+    "price": "5,199"
+  },
+  {
+    "id": "just_arrived_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD02459_1.jpg?v=1717677940&width=713",
+    "name": "Silver Sporty Chain For Him",
+    "price": "15,999"
+  },
+  {
+    "id": "just_arrived_11",
+    "img": "https://www.giva.co/cdn/shop/files/ER02726_1.jpg?v=1720089743&width=713",
+    "name": "Golden Work Hoop Earrings",
+    "price": "1,799"
+  },
+  {
+    "id": "just_arrived_12",
+    "img": "https://www.giva.co/cdn/shop/files/BR01080_1.jpg?v=1723640834&width=713",
+    "name": "Silver Courage Bracelet For Him",
+    "price": "8,299"
+  },
+  {
+    "id": "just_arrived_13",
+    "img": "https://www.giva.co/cdn/shop/files/PD02449_1.jpg?v=1724835846&width=713",
+    "name": "Rose Gold Brilliant Red Eyebright Trio Necklace",
+    "price": "3,999"
+  },
+  {
+    "id": "just_arrived_14",
+    "img": "https://www.giva.co/cdn/shop/files/ER02714_1_1.jpg?v=1724837942&width=713",
+    "name": "Silver Snowy Safed Musli Earrings",
+    "price": "3,599"
+  },
+  {
+    "id": "just_arrived_15",
+    "img": "https://www.giva.co/cdn/shop/files/PD02428_1.jpg?v=1724836776&width=713",
+    "name": "Golden Crescent Zircon Necklace",
+    "price": "2,899"
+  },
+  {
+    "id": "just_arrived_16",
+    "img": "https://www.giva.co/cdn/shop/files/ER02653_PD02421_1.jpg?v=1725533628&width=713",
+    "name": "Silver Zircon Excess Set",
+    "price": "7,299"
+  },
+  {
+    "id": "just_arrived_17",
+    "img": "https://www.giva.co/cdn/shop/files/PD02515_1_1bf834a2-13b7-4802-93d6-7d9e94964d16.jpg?v=1728026727&width=713",
+    "name": "Rose Gold Kamala Necklace",
+    "price": "3,299"
+  },
+  {
+    "id": "just_arrived_18",
+    "img": "https://www.giva.co/cdn/shop/files/ER02793_1_c14761f3-efba-4d64-9fd4-26ea0ee43d47.jpg?v=1727930049&width=713",
+    "name": "Rose Gold Mor Earrings",
+    "price": "3,799"
+  },
+  {
+    "id": "just_arrived_19",
+    "img": "https://www.giva.co/cdn/shop/files/ER02791_1.jpg?v=1728568348&width=713",
+    "name": "Rose Gold Sundar Mor Jhumki",
+    "price": "5,499"
+  },
+  {
+    "id": "just_arrived_20",
+    "img": "https://www.giva.co/cdn/shop/files/PD02509_1.jpg?v=1728569022&width=713",
+    "name": "Rose Gold Adwitiya Morni Necklace",
+    "price": "2,999"
+  },
+  {
+    "id": "love_in_paris_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD01220_1.jpg?v=1711627531&width=713",
+    "name": "Rose Gold Flowing Crocus Pendant with Link Chain",
+    "price": "2,099"
+  },
+  {
+    "id": "love_in_paris_1",
+    "img": "https://www.giva.co/cdn/shop/files/ER01272_1_1.jpg?v=1695303202&width=713",
+    "name": "Rose Gold Blossoming Crocus Earrings",
+    "price": "1,899"
+  },
+  {
+    "id": "love_in_paris_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD01986_1.jpg?v=1696512295&width=713",
+    "name": "Rose Gold Notre Dame Pendant With Link Chain",
+    "price": "2,799"
+  },
+  {
+    "id": "love_in_paris_3",
+    "img": "https://www.giva.co/cdn/shop/products/ER01398_1.jpg?v=1668090089&width=713",
+    "name": "Silver Blooming Crocus Earrings",
+    "price": "2,199"
+  },
+  {
+    "id": "love_in_paris_4",
+    "img": "https://www.giva.co/cdn/shop/files/PD01315_1.jpg?v=1694084839&width=713",
+    "name": "Rose Gold French Beauty Necklace",
+    "price": "4,399"
+  },
+  {
+    "id": "love_in_paris_5",
+    "img": "https://www.giva.co/cdn/shop/files/BR0782_1.jpg?v=1696513241&width=713",
+    "name": "Rose Gold Crocus Love Bracelet",
+    "price": "2,399"
+  },
+  {
+    "id": "love_in_paris_6",
+    "img": "https://www.giva.co/cdn/shop/files/ER01275_PD01986_5_e9d7e03e-d836-4728-b37f-f486c7513437.jpg?v=1696510917&width=360",
+    "name": "Rose Gold Notre Dame Set",
+    "price": "4,299"
+  },
+  {
+    "id": "love_in_paris_7",
+    "img": "https://www.giva.co/cdn/shop/products/PD01315_ER1373_1-min.jpg?v=1668087686&width=713",
+    "name": "Rose Gold French Beauty Set",
+    "price": "5,899"
+  },
+  {
+    "id": "love_in_paris_8",
+    "img": "https://www.giva.co/cdn/shop/files/ER02134_5_ab30a2f2-6a8c-4a72-9144-85bc4c2e6593.jpg?v=1696513638&width=360",
+    "name": "Rose Gold Dream Tower Teardrop Earrings",
+    "price": "3,699"
+  },
+  {
+    "id": "love_in_paris_9",
+    "img": "https://www.giva.co/cdn/shop/files/BR0779_5_31ca200a-8ad7-4ef1-96b0-4f97e33a4156.jpg?v=1696572714&width=360",
+    "name": "Rose Gold Love In Paris Bracelet",
+    "price": "3,399"
+  },
+  {
+    "id": "love_in_paris_10",
+    "img": "https://www.giva.co/cdn/shop/files/R01058_1.jpg?v=1688046853&width=713",
+    "name": "Rose Gold Louvre Inspired Ring",
+    "price": "2,099"
+  },
+  {
+    "id": "love_in_paris_11",
+    "img": "https://www.giva.co/cdn/shop/files/BR0910_1.jpg?v=1696513259&width=713",
+    "name": "Rose Gold Movable Crocus Bracelet",
+    "price": "3,099"
+  },
+  {
+    "id": "mens_bracelet_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR0330_1.jpg?v=1719488440&width=713",
+    "name": "Silver Classy Link Bracelet",
+    "price": "5,499"
+  },
+  {
+    "id": "mens_bracelet_1",
+    "img": "https://www.giva.co/cdn/shop/files/BR0968_1_5993fc01-68ce-441c-93be-ecc2a5bb1c52.jpg?v=1718880462&width=713",
+    "name": "Silver Trooper Bracelet",
+    "price": "2,799"
+  },
+  {
+    "id": "mens_bracelet_2",
+    "img": "https://www.giva.co/cdn/shop/files/BR0967_1.jpg?v=1720515959&width=713",
+    "name": "Silver Warrior Mode Bracelet",
+    "price": "4,699"
+  },
+  {
+    "id": "mens_bracelet_3",
+    "img": "https://www.giva.co/cdn/shop/files/BR0328_1.jpg?v=1719488417&width=713",
+    "name": "Silver Jazzy Link Bracelet",
+    "price": "5,199"
+  },
+  {
+    "id": "mens_bracelet_4",
+    "img": "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+    "name": "Silver Highness Bracelet For Him",
+    "price": "9,999"
+  },
+  {
+    "id": "mens_bracelet_5",
+    "img": "https://www.giva.co/cdn/shop/products/BR0763_1.jpg?v=1674137994&width=713",
+    "name": "Silver Classic Bracelet",
+    "price": "5,499"
+  },
+  {
+    "id": "mens_bracelet_6",
+    "img": "https://www.giva.co/cdn/shop/files/BR01083_1.jpg?v=1723123914&width=713",
+    "name": "Silver Classic Bold Bracelet For Him",
+    "price": "6,999"
+  },
+  {
+    "id": "mens_bracelet_7",
+    "img": "https://www.giva.co/cdn/shop/files/BR01080_1.jpg?v=1723640834&width=713",
+    "name": "Silver Courage Bracelet For Him",
+    "price": "8,299"
+  },
+  {
+    "id": "mens_bracelet_8",
+    "img": "https://www.giva.co/cdn/shop/files/BR01081_1_1.jpg?v=1724217937&width=713",
+    "name": "Silver Primera Bracelet For Him",
+    "price": "5,999"
+  },
+  {
+    "id": "mens_bracelet_9",
+    "img": "https://www.giva.co/cdn/shop/files/BR01051_1.jpg?v=1718878228&width=713",
+    "name": "Silver Delink Bracelet For Him",
+    "price": "4,299"
+  },
+  {
+    "id": "mens_bracelet_10",
+    "img": "https://www.giva.co/cdn/shop/files/BR01059_1.jpg?v=1717677379&width=713",
+    "name": "Silver Wave Bracelet For Him",
+    "price": "9,999"
+  },
+  {
+    "id": "mens_bracelet_11",
+    "img": "https://www.giva.co/cdn/shop/files/BR01079_1_25a52f19-155d-48ea-a30b-84e59b9e4a4c.jpg?v=1724317371&width=713",
+    "name": "Silver Kingpin Bracelet",
+    "price": "7,999"
+  },
+  {
+    "id": "mens_chain_0",
+    "img": "https://www.giva.co/cdn/shop/files/CH0110_1_48ca48f9-5b7e-423d-8e7e-4926851ff2dc.jpg?v=1720008225&width=713",
+    "name": "Silver Link Aura Chain",
+    "price": "4,499"
+  },
+  {
+    "id": "mens_chain_1",
+    "img": "https://www.giva.co/cdn/shop/files/CH0137_1.jpg?v=1725537739&width=713",
+    "name": "Silver Classic Love Chain",
+    "price": "6,699"
+  },
+  {
+    "id": "mens_chain_2",
+    "img": "https://www.giva.co/cdn/shop/files/CH0111_1_e54af17d-49e9-463a-8e14-3db8c159215e.jpg?v=1719219225&width=713",
+    "name": "Golden Twilight Chain",
+    "price": "3,899"
+  },
+  {
+    "id": "mens_chain_3",
+    "img": "https://www.giva.co/cdn/shop/files/CH0133_1_8efab8c2-b7e1-4708-a62e-c269054d2f6f.jpg?v=1720506888&width=713",
+    "name": "Golden Charismatic Chain",
+    "price": "7,799"
+  },
+  {
+    "id": "mens_chain_4",
+    "img": "https://www.giva.co/cdn/shop/files/CH0126_1.jpg?v=1708005483&width=713",
+    "name": "Golden Close Wave Chain",
+    "price": "4,799"
+  },
+  {
+    "id": "mens_chain_5",
+    "img": "https://www.giva.co/cdn/shop/files/CH0173_1.jpg?v=1718880516&width=713",
+    "name": "Silver Valour Chain",
+    "price": "3,499"
+  },
+  {
+    "id": "mens_chain_6",
+    "img": "https://www.giva.co/cdn/shop/files/BR01083_1.jpg?v=1723123914&width=713",
+    "name": "Silver Crest Chain",
+    "price": "4,999"
+  },
+  {
+    "id": "mens_pandent_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD01149_1_4ee90034-3c9a-473e-b72e-894d6e90f61c.jpg?v=1718702934&width=713",
+    "name": "Silver Striped Cross Pendant with Box Chain",
+    "price": "1,799"
+  },
+  {
+    "id": "mens_pandent_1",
+    "img": "https://www.giva.co/cdn/shop/files/PD0864_1_1af4c045-a4b7-46c9-a9b0-6da9bcf4cbaf.jpg?v=1718193998&width=713",
+    "name": "Oxidised Silver Zodiac Spin Pendant With Box Chain",
+    "price": "2,799"
+  },
+  {
+    "id": "mens_pandent_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02070_1_b8bfbac4-5b4a-4de7-9bd6-b3060f2ca448.jpg?v=1718701966&width=713",
+    "name": "Silver Graceful Om Pendant With Box Chain",
+    "price": "2,699"
+  },
+  {
+    "id": "mens_pandent_3",
+    "img": "https://www.giva.co/cdn/shop/files/PD01294_1_7fa07436-8e45-4396-9f94-2cb13442fdc2.jpg?v=1719488524&width=713",
+    "name": "Silver Kite Pendant with Box Chain",
+    "price": "2,199"
+  },
+  {
+    "id": "mens_pandent_4",
+    "img": "https://www.giva.co/cdn/shop/files/PD02043_1_80d82052-0562-4ad8-afca-6dbfc0b50376.jpg?v=1717677590&width=1946",
+    "name": "Silver Heavenly Peace Pendant With Box Chain",
+    "price": "2,699"
+  },
+  {
+    "id": "mens_pandent_5",
+    "img": "https://www.giva.co/cdn/shop/files/PD0853_1.jpg?v=1719488500&width=713",
+    "name": "Golden Gleaming Ganesha Pendant With Link Chain ",
+    "price": "2,899"
+  },
+  {
+    "id": "mens_pandent_6",
+    "img": "https://www.giva.co/cdn/shop/files/PD02484_1_34b71235-7f27-436b-9d69-a12ec08f6acb.jpg?v=1720272458&width=713",
+    "name": "Silver Mahabali Hanuman Pendant with Box Chain ",
+    "price": "3,099"
+  },
+  {
+    "id": "mens_pandent_7",
+    "img": "https://www.giva.co/cdn/shop/files/AVPD0167_1_0bea0ce8-fc20-4c55-8068-ac01c8f6c3fc.jpg?v=1718775082&width=713",
+    "name": "Silver Trident Pendant with Box Chain",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_pandent_8",
+    "img": "https://www.giva.co/cdn/shop/files/PD02435_1.jpg?v=1707402569&width=713",
+    "name": "Silver Hanuman Gada Pendant with Box Chain",
+    "price": "2,999"
+  },
+  {
+    "id": "mens_pandent_9",
+    "img": "https://www.giva.co/cdn/shop/files/PD02437_1_65bf830a-2262-4217-9559-0703e005751f.jpg?v=1718194448&width=713",
+    "name": "Silver Bhakta Hanuman Pendant with Box Chain",
+    "price": "3,199"
+  },
+  {
+    "id": "mens_pandent_10",
+    "img": "https://www.giva.co/cdn/shop/files/PD01292_1.jpg?v=1720272069&width=713",
+    "name": "Silver Compass of Life Pendant with Link Chain",
+    "price": "2,299"
+  },
+  {
+    "id": "mens_pandent_11",
+    "img": "https://www.giva.co/cdn/shop/files/PD0716_1.jpg?v=1694156286&width=713",
+    "name": "Silver Tiger Tooth Pendant with Link Chain",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_pandent_12",
+    "img": "https://www.giva.co/cdn/shop/files/PD0389_1_628835d9-bdf2-46ff-8a4e-b05d3279c4df.jpg?v=1720088795&width=1946",
+    "name": "Silver Sunny Side Pendant With Link Chain",
+    "price": "2,399"
+  },
+  {
+    "id": "mens_pandent_13",
+    "img": "https://www.giva.co/cdn/shop/files/PD02489_1.jpg?v=1719488681&width=713",
+    "name": "Silver Trishul Rudraksha Pendant",
+    "price": "4,299"
+  },
+  {
+    "id": "mens_pandent_14",
+    "img": "https://www.giva.co/cdn/shop/files/PD02490_1.jpg?v=1718878303&width=713",
+    "name": "Silver Trishul And Rudraksha Pendant With Box Chain",
+    "price": "3,899"
+  },
+  {
+    "id": "mens_pandent_15",
+    "img": "https://www.giva.co/cdn/shop/files/PD02482_1_39eba6df-8c66-4f3d-b950-5dd0e2f08c82.jpg?v=1718702978&width=713",
+    "name": "Silver Shree Ram Pendant with Link Chain",
+    "price": "2,899"
+  },
+  {
+    "id": "mens_pandent_16",
+    "img": "https://www.giva.co/cdn/shop/files/PD01966_1.jpg?v=1715861530&width=713",
+    "name": "Golden League Pendant With Link Chain",
+    "price": "4,199"
+  },
+  {
+    "id": "mens_pandent_17",
+    "img": "https://www.giva.co/cdn/shop/files/PD02492_1.jpg?v=1720271976&width=713",
+    "name": "Silver Knight's Emblem Pendant with Box Chain",
+    "price": "4,099"
+  },
+  {
+    "id": "mens_pandent_18",
+    "img": "https://www.giva.co/cdn/shop/files/R01793_1_31c1c333-2c67-4e4c-a02f-935de5d1de40.jpg?v=1726572323&width=713https://www.giva.co/cdn/shop/files/PD02459_1.jpg?v=1717677940&width=713",
+    "name": "Silver Sporty Chain For Him",
+    "price": "15,999"
+  },
+  {
+    "id": "mens_pandent_19",
+    "img": "https://www.giva.co/cdn/shop/files/PD02040_1_8ab23ee8-f195-45b5-9990-39dcb4a05316.jpg?v=1719488613&width=713",
+    "name": "Oxidised Silver Skeletal Hand Pendant With Box Chain",
+    "price": "3,199"
+  },
+  {
+    "id": "mens_ring_0",
+    "img": "https://www.giva.co/cdn/shop/files/R01205_1_c1c1f020-91f7-4c7a-a50b-d15ae2c9158d.jpg?v=1717679741&width=713",
+    "name": "Golden Prominence Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "mens_ring_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01035_1.jpg?v=1717675715&width=713",
+    "name": "Silver Rope Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "mens_ring_2",
+    "img": "https://www.giva.co/cdn/shop/files/R01114_1.jpg?v=1719488799&width=713",
+    "name": "Silver Modern Simplicity Mens_rings",
+    "price": "1,599"
+  },
+  {
+    "id": "mens_ring_3",
+    "img": "https://www.giva.co/cdn/shop/files/R0362_1.jpg?v=1719493732&width=713",
+    "name": "Golden Warrior Prince Ring",
+    "price": "2,199"
+  },
+  {
+    "id": "mens_ring_4",
+    "img": "https://www.giva.co/cdn/shop/files/R0447_1.jpg?v=1717680382&width=713",
+    "name": "Silver Black Stone Ring",
+    "price": "3,999"
+  },
+  {
+    "id": "mens_ring_5",
+    "img": "https://www.giva.co/cdn/shop/files/R01740_1_e811078f-b6a2-4837-918d-c27e9eef0e7f.jpg?v=1717678084&width=1946",
+    "name": "Dual Tone Charismatic Ring",
+    "price": "2,799"
+  },
+  {
+    "id": "mens_ring_6",
+    "img": "https://www.giva.co/cdn/shop/files/R01284_1_daa4c9e6-9471-4b3d-a960-6f17ca0bdf93.jpg?v=1717675761&width=713",
+    "name": "Golden Square in Rectangle Ring",
+    "price": "2,399"
+  },
+  {
+    "id": "mens_ring_7",
+    "img": "https://www.giva.co/cdn/shop/files/R01673_1_44995873-d2a7-4507-b94d-c4ce3b17dcbc.jpg?v=1717680476&width=713",
+    "name": "Silver Om Shiva Ring",
+    "price": "1,799"
+  },
+  {
+    "id": "mens_ring_8",
+    "img": "https://www.giva.co/cdn/shop/files/R01765_1.jpg?v=1712235166&width=713",
+    "name": "Black Rhodium Truly Bold Ring",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_ring_9",
+    "img": "https://www.giva.co/cdn/shop/files/R0578_1-min.jpg?v=1718880242&width=713",
+    "name": "Golden Rise Star Ring",
+    "price": "4,199"
+  },
+  {
+    "id": "mens_ring_10",
+    "img": "https://www.giva.co/cdn/shop/files/R01236_1.jpg?v=1718877465&width=713",
+    "name": "Golden Roar Of Lion Ring",
+    "price": "4,799"
+  },
+  {
+    "id": "mens_ring_11",
+    "img": "https://www.giva.co/cdn/shop/files/R01097_1-min.jpg?v=1718194302&width=713",
+    "name": "Golden Tenor Ring",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_ring_12",
+    "img": "https://www.giva.co/cdn/shop/files/R01307_1.jpg?v=1719488953&width=713",
+    "name": "Silver Life's Milestones Ring",
+    "price": "3,999"
+  },
+  {
+    "id": "mens_ring_13",
+    "img": "https://www.giva.co/cdn/shop/files/R01240_1-min.jpg?v=1718880319&width=713",
+    "name": "Golden Zircon Glory Ring",
+    "price": "2,299"
+  },
+  {
+    "id": "mens_ring_14",
+    "img": "https://www.giva.co/cdn/shop/files/R01760_1_2d4524a6-bdec-4a80-9a35-7d9062613fe7.jpg?v=1718877598&width=713",
+    "name": "Dual Tone Confidence Band Ring",
+    "price": "2,899"
+  },
+  {
+    "id": "mens_ring_15",
+    "img": "https://www.giva.co/cdn/shop/files/R01281_1-min.jpg?v=1718880357&width=1946",
+    "name": "Silver Adam's Tree Ring",
+    "price": "2,499"
+  },
+  {
+    "id": "mens_ring_16",
+    "img": "https://www.giva.co/cdn/shop/files/R0646_1_db51decb-5c4a-41f5-ac9b-7e46b60c7991.jpg?v=1719488720&width=713",
+    "name": "Silver Classic Ring Band",
+    "price": "1,199"
+  },
+  {
+    "id": "mens_ring_17",
+    "img": "https://www.giva.co/cdn/shop/files/R01477_1-min.jpg?v=1718880391&width=713",
+    "name": "Silver Zircon Square Ring",
+    "price": "2,699"
+  },
+  {
+    "id": "mens_ring_18",
+    "img": "https://www.giva.co/cdn/shop/files/R01793_1_31c1c333-2c67-4e4c-a02f-935de5d1de40.jpg?v=1726572323&width=713",
+    "name": "Silver Classic Linking Ring",
+    "price": "2,499"
+  },
+  {
+    "id": "mens_ring_19",
+    "img": "https://www.giva.co/cdn/shop/files/R01814_1_8f0c6285-8d37-4b3a-90bf-bb687721515e.jpg?v=1722936312&width=713",
+    "name": "Silver Racy Tortoise Ring",
+    "price": "2,799"
+  },
+  {
+    "id": "mens_all_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD02484_1_34b71235-7f27-436b-9d69-a12ec08f6acb.jpg?v=1720272458&width=713",
+    "name": "Silver Mahabali Hanuman Pendant with Box Chain For Him",
+    "price": "3,099"
+  },
+  {
+    "id": "mens_all_1",
+    "img": "https://www.giva.co/cdn/shop/products/BR0763_1.jpg?v=1674137994&width=713",
+    "name": "Silver Classic Bracelet for Him",
+    "price": "5,499"
+  },
+  {
+    "id": "mens_all_2",
+    "img": "https://www.giva.co/cdn/shop/files/R01205_1_c1c1f020-91f7-4c7a-a50b-d15ae2c9158d.jpg?v=1717679741&width=713",
+    "name": "Golden Prominence Ring For Him",
+    "price": "1,799"
+  },
+  {
+    "id": "mens_all_3",
+    "img": "https://www.giva.co/cdn/shop/files/BR0330_1.jpg?v=1719488440&width=713",
+    "name": "Silver Classy Link Bracelet For Him",
+    "price": "5,499"
+  },
+  {
+    "id": "mens_all_4",
+    "img": "https://www.giva.co/cdn/shop/files/CH0126_1.jpg?v=1708005483&width=713",
+    "name": "Golden Close Wave Chain For Him",
+    "price": "4,799"
+  },
+  {
+    "id": "mens_all_5",
+    "img": "https://www.giva.co/cdn/shop/files/PD02489_1.jpg?v=1719488681&width=713",
+    "name": "Silver Trishul Rudraksha Pendant With Box Chain For Him",
+    "price": "4,299"
+  },
+  {
+    "id": "mens_all_6",
+    "img": "https://www.giva.co/cdn/shop/files/R01370_1_0f751db3-ca11-4c72-8cc8-364d0ca4528a.jpg?v=1718195623&width=713",
+    "name": "Golden Zircon Ornate Ring For Him",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_all_7",
+    "img": "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+    "name": "Silver Highness Bracelet For Him",
+    "price": "9,999"
+  },
+  {
+    "id": "mens_all_8",
+    "img": "https://www.giva.co/cdn/shop/files/R01097_1-min.jpg?v=1718194302&width=713",
+    "name": "Golden Tenor Ring For Him",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_all_9",
+    "img": "https://www.giva.co/cdn/shop/files/R0578_1-min.jpg?v=1718880242&width=713",
+    "name": "Golden Rise Star Ring for Him",
+    "price": "4,299"
+  },
+  {
+    "id": "mens_all_10",
+    "img": "https://www.giva.co/cdn/shop/files/BR01079_1_25a52f19-155d-48ea-a30b-84e59b9e4a4c.jpg?v=1724317371&width=713",
+    "name": "Silver Kingpin Bracelet For Him",
+    "price": "7,999"
+  },
+  {
+    "id": "mens_all_11",
+    "img": "https://www.giva.co/cdn/shop/files/PD01966_5.jpg?v=1715861530&width=360",
+    "name": "Golden League Pendant With Link Chain For Him",
+    "price": "3,399"
+  },
+  {
+    "id": "mens_all_12",
+    "img": "https://www.giva.co/cdn/shop/files/PD02487_1_6e0497b6-ed51-4be8-898b-b7c0e76d334c.jpg?v=1718194521&width=713",
+    "name": "Silver Ugra Narasimha Pendant with Link Chain",
+    "price": "4,499"
+  },
+  {
+    "id": "mens_all_13",
+    "img": "https://www.giva.co/cdn/shop/files/R01296_1_a705a7c0-bcee-4041-8482-559afa15c2fd.jpg?v=1718195152&width=713",
+    "name": "Silver Fashionable Ring For Him",
+    "price": "4,799"
+  },
+  {
+    "id": "mens_all_14",
+    "img": "https://www.giva.co/cdn/shop/files/PD0853_1.jpg?v=1719488500&width=713",
+    "name": "Golden Gleaming Ganesha Pendant With Link Chain For Him",
+    "price": "2,899"
+  },
+  {
+    "id": "mens_all_15",
+    "img": "https://www.giva.co/cdn/shop/files/R01284_1_daa4c9e6-9471-4b3d-a960-6f17ca0bdf93.jpg?v=1717675761&width=713",
+    "name": "Golden Square in Rectangle Ring For Him",
+    "price": "2,399"
+  },
+  {
+    "id": "mens_all_16",
+    "img": "https://www.giva.co/cdn/shop/files/CH0172_1.jpg?v=1721470040&width=713",
+    "name": "Silver Crest Chain For Him",
+    "price": "4,999"
+  },
+  {
+    "id": "mens_all_17",
+    "img": "https://www.giva.co/cdn/shop/files/R0200_1.jpg?v=1717677977&width=713",
+    "name": "Silver Rock-Solid Men's Ring",
+    "price": "3,099"
+  },
+  {
+    "id": "wings_of_wonder_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR0996_1.jpg?v=1716988930&width=713",
+    "name": "Rose Gold Wing Charm Bracelet",
+    "price": "1,899"
+  },
+  {
+    "id": "wings_of_wonder_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01687_1.jpg?v=1716988570&width=713",
+    "name": "Rose Gold Feathered Love Ring",
+    "price": "1,899"
+  },
+  {
+    "id": "wings_of_wonder_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD02412_ER02639_1.jpg?v=1716989119&width=713",
+    "name": "Rose Gold Fly In Pink Set",
+    "price": "3,799"
+  },
+  {
+    "id": "wings_of_wonder_3",
+    "img": "https://www.giva.co/cdn/shop/files/ER02639_1.jpg?v=1716989052&width=713",
+    "name": "Rose Gold Fly In Pink Earrings",
+    "price": "1,499"
+  },
+  {
+    "id": "wings_of_wonder_4",
+    "img": "https://www.giva.co/cdn/shop/files/PD02412_1.jpg?v=1716989091&width=713",
+    "name": "Rose Gold Fly In Pink Necklace",
+    "price": "2,399"
+  },
+  {
+    "id": "wings_of_wonder_5",
+    "img": "https://www.giva.co/cdn/shop/files/PD02402_1.jpg?v=1716988802&width=713",
+    "name": "Rose Gold Swinging Bird Pendant with Link Chain",
+    "price": "3,099"
+  },
+  {
+    "id": "wings_of_wonder_6",
+    "img": "https://www.giva.co/cdn/shop/files/ER02635_1_1dcb49ff-74c0-4938-abb8-461b400470be.jpg?v=1717239722&width=713",
+    "name": "Rose Gold Winged Dangler Earrings",
+    "price": "1,999"
+  },
+  {
+    "id": "wings_of_wonder_7",
+    "img": "https://www.giva.co/cdn/shop/files/PD02405_1.jpg?v=1716991124&width=713",
+    "name": "Rose Gold Wing Flap Pendant With Link Chain",
+    "price": "3,499"
+  },
+  {
+    "id": "wings_of_wonder_8",
+    "img": "https://www.giva.co/cdn/shop/files/PD02404_1.jpg?v=1717065994&width=713",
+    "name": "Rose Gold Curled Wing Pendant With Link Chain",
+    "price": "3,499"
+  }
+]

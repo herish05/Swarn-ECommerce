@@ -1,0 +1,98 @@
+[
+  {
+    "id" : "ring_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLR0339_1.jpg?v=1709214938&width=600",
+    "name": "Gold Diamond Ring",
+    "price": "500"
+  },
+  {
+    "id" : "ring_1",
+    "img": "https://www.giva.co/cdn/shop/files/R01694_1.jpg?v=1710418002&width=600",
+    "name": "Silver Sapphire Ring",
+    "price": "300"
+  },
+  {
+    "id" : "ring_2",
+    "img": "https://www.giva.co/cdn/shop/files/R01340_1.jpg?v=1709213557&width=600",
+    "name": "Platinum Ruby Ring",
+    "price": "750"
+  },
+  {
+    "id" : "ring_3",
+    "img":"https://www.giva.co/cdn/shop/files/GDLR0151_1_2f05fe28-9e08-45c9-ada9-5fbd4147b9de.jpg?v=1721797324&width=600",
+    "name": "Gold Vibrant Spirit Diamond Ring",
+    "price": "24,298"
+  },
+  {
+    "id" : "ring_4",
+    "img" : "https://www.giva.co/cdn/shop/files/GDLR0190_1.jpg?v=1709357098&width=600",
+    "name" : "Gold Classic Curvy Diamond Ring" ,
+    "price" : "14,559"
+  },
+  {
+    "id" : "ring_5",
+    "img" : "https://www.giva.co/cdn/shop/files/GDLR038_1_fe44986a-fbbe-4aeb-a22b-9d8814de066b.jpg?v=1721298055&width=600",
+    "name" : "Gold Heartbeat Duo Diamond Ring",
+    "price" : "12,509"
+  },
+  {
+    "id" : "ring_6",
+    "img" : "https://www.giva.co/cdn/shop/files/GDLR0342_1.jpg?v=1714190534&width=600",
+    "name" : "Gold Crown Diamond Ring",
+    "price" : "12,521"
+  },
+  {
+    "id" : "ring_7",
+    "img" : "https://www.giva.co/cdn/shop/products/GDLR0203_1_ffad3e5a-7424-4791-b42c-f768f636279b.jpg?v=1714165711&width=713",
+    "name" : "Gold Half Moon Diamond Ring",
+    "price" : "9,779"
+  },
+  {
+    "id" : "ring_8",
+    "img" : "https://www.giva.co/cdn/shop/files/R054_1_b37f3b0b-0f56-42c8-954a-98ee4a1ab53b.jpg?v=1715601912&width=600",
+    "name" : "Silver Zircon Layered Ring",
+    "price" : "1,799"
+  },
+  {
+    "id" : "ring_9",
+    "img" : "https://www.giva.co/cdn/shop/files/R040_1.jpg?v=1712924871&width=600",
+    "name" : "Silver Queen Crown Ring",
+    "price" : "2,199"
+  },
+  {
+    "id" : "ring_10",
+    "img" : "https://www.giva.co/cdn/shop/files/R0744_1.jpg?v=1712235519&width=713",
+    "name" : "Golden Daze Ring",
+    "price" : "1,099"
+  },
+  {
+    "id" : "ring_11",
+    "img" : "https://www.giva.co/cdn/shop/files/R0187_1.jpg?v=1694158687&width=713",
+    "name" : "Rose Gold Glinting Crown Ring",
+    "price" : "1,799"
+  },
+  {
+    "id" : "ring_12",
+    "img" : "https://www.giva.co/cdn/shop/files/R0636_1_1.jpg?v=1715151725&width=713",
+    "name" : "Silver Zircon Beachy Waves Ring",
+    "price" : "1,199"
+  },
+  {
+    "id" : "ring_13",
+    "img" : "https://www.giva.co/cdn/shop/files/R01360_1.jpg?v=1705649722&width=713",
+    "name" : "Silver Solitaire Stackable Ring",
+    "price" : "3,899"
+  },
+  {
+    "id" : "ring_14",
+    "img" : "https://www.giva.co/cdn/shop/files/R01649_1.jpg?v=1705494504&width=713",
+    "name" : "Rose Gold Adorable Heart Ring",
+    "price" : "3,099"
+  },
+  {
+    "id" : "ring_15",
+    "img" : "https://www.giva.co/cdn/shop/files/R0969_1-min.jpg?v=1690467446&width=713",
+    "name" : "Silver Forever Sparkle Statement Ring",
+    "price" : "4,999"
+  }
+]

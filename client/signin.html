@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+    <div id="loader" style="display:none;">
+        <div class="spinner">
+
+        </div>
+ </div>
+    <div class="nav">
+        <div class="upper-nav">
+          <a class="logo" href="/client/landingPage.html"><img src="images/swarn-high-resolution-logo-transparent.png" alt="" /></a>
+          <input class="search-bar" type="text" placeholder='Search "Jhumki"' />
+          <div class="nav-icons">
+            <a href="./store/store.html"><img src="images/storefront_25dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png"
+                alt="" /><span>Stores</span></a>
+                <a href="./login.html"> 
+                  <img src="images/person_25dp_00000_FILL0_wght400_GRAD0_opsz24.png" alt="" />
+                  <span >Account</span></a>
+            <a href="./wishlist/wishlist.html"><img src="images/favorite_25dp_00000_FILL0_wght400_GRAD0_opsz24.png" alt="" />
+              <span>Wishlist</span>
+            </a>
+            <a href="./cart/cart.html">
+              <img src="images/shopping_cart_25dp_00000_FILL0_wght400_GRAD0_opsz24.png" alt="" />
+              <span>Cart</span></a>
+              
+          </div>
+        </div>
+        <div class="lower-nav">
+          <ul class="main-filters">
+            <li class="filter">
+              <a href="">Shop by Category</a>
+              <ul class="subFilter">
+                <li><a href="">All</a></li>
+                <li><a href="./rings/rings.html">Rings</a></li>
+                <li><a href="./NecklaceAndPendants/necklace.html">Necklaces & Pendants</a></li>
+                <li><a href="./Bracelet/bracelet.html">Bracelets</a></li>
+                <li><a href="./earring/earring.html">Earrings</a></li>
+                <li><a href="./anklet/anklet.html">Anklets</a></li>
+               
+              </ul>
+            </li>
+            <li class="filter">
+              <a href="">Latest Collection</a>
+              <ul class="subFilter">
+                <a href="./wing of wonder/wing_of_wonder.html"> <li>Wings of Wonder</li></a>
+                <a href="./cherry pop/cherry_pop.html"> <li>Cherry Pop Collection</li></a>
+                 <a href="./love paris/love_paris.html"><li>Love in Paris</li></a>
+             <a href="./bhumi collection/bhumi_collection.html"><li>The Bhumi Collection</li></a>
+                 <a href="./convertible collection/convertible_collection.html"><li>Convertible Collection</li></a>
+                 <a href="./just arrived/just_arrived.html"><li>Just Arrived</li></a>
+               </ul>
+            </li>
+            <li class="filter">
+              <a href="">Men's Jewellery</a>
+              <ul class="subFilter">
+                <a href="./mens all/mens_all.html"><li>All</li></a>
+                 <a href="./men rings/men_rings.html"><li>Rings</li></a>
+                <a href="./men pandents/men_pandents.html"> <li>Pendants</li></a>
+                 <a href="./men bracelets/men_bracelets.html"><li>Bracelets</li></a>
+                <a href="./men chains/men_chains.html"><li>Chains</li></a>
+               </ul>
+            </li>
+            <li class="filter">
+              <a href="">Gift Store</a>
+              <ul class="subFilter">
+                <li>SWARN Gift Store</li>
+                <li>Shop by Occasion</li>
+                <li>Shop by Theme</li>
+                <li>Shop by Recipient</li>
+                <li>Shop by Price</li>
+              </ul>
+            </li>
+            <li class="filter"><a href="">Gold with Lab Diamonds</a></li>
+            <li class="filter"><a href="">Offers</a></li>
+            <li class="filter"><a href="">About Us</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="nav-placeholder"></div>
+    </header>
+    <!-- <div class="main-container"> -->
+        <div class="container">
+            <div class="child-container">
+                <h1>Sign In to Swarn</h1>
+               
+                <div class="form">
+                    <form id="signin">
+                        
+                        <div class="input"><input type="text" name="username" id="name" placeholder="Username"></div>
+                       <div class="input"><input type="email" name="email" id="email"  placeholder="Email"></div>
+                       <div class="input"><input type="password" name="password" id="password" placeholder="Password"></div>
+                        <div class="input"><input type="password" name="confirmpassword" id="c-password" placeholder="Confirm password"></div>
+                        
+                        <button type="submit" class="btn">Agree and Register</button>
+                    </form>
+                   
+                </div>
+                <fieldset>
+                    <legend>Or Login with</legend>
+                </fieldset>
+                <div class="lower">Have an account&nbsp; &nbsp;<a href="/client/login.html">Log In?</a></div>
+                <div class="icon">
+                    <div class="icon1"><img src="images/f.png"></div>
+                    <div class="icon1"><img src="images/g.png"></div>
+                    <div class="icon1"><img src="images/a.webp"></div>
+                </div>
+                
+            </div>
+        </div>
+    <!-- </div> -->
+    <script type="text/javascript">
+        (function(d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+            v.onload = function() {
+              window.voiceflow.chat.load({
+                verify: { projectID: '66f7ca4c3c065d2f7709ab87' },
+                url: 'https://general-runtime.voiceflow.com',
+                versionID: 'production'
+              });
+            }
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+      </script>
+     <script>
+        if(window.location.href==='http://127.0.0.1:5500/client/signin.html' &&localStorage.getItem('authToken')){
+            window.location.href='dashboard.html'
+        }
+        async function defaultLog(event){
+            event.preventDefault();
+            const formData={
+                username:document.getElementById('name').value,
+                email:document.getElementById('email').value,
+                password:document.getElementById('password').value,
+                confirmpassword:document.getElementById('c-password').value
+            }
+            const response=await fetch('http://localhost:5000/register',{
+                method:'POST',
+                headers:{
+                    'Content-Type':'application/json'
+                },
+                body:JSON.stringify(formData)
+            })
+            const result=await response.json();
+            if(result.status){
+                document.getElementById('loader').style.display='flex';
+                Toastify({
+                    text:`Welcome ,${result.user.username} Registration Successfull`,
+                    duration:3000,
+                    style: {
+                        position: 'absolute',
+                        top: '50%',
+                     
+                         // To center it horizontally
+                    },
+                    draggable:true,
+                    close:true,
+                    backgroundColor:'#A8E6A1',
+                    stopOnFocus:true,
+                }).showToast();
+                setTimeout(()=>{
+                    window.location.href='login.html'
+                    document.getElementById('loader').style.display='none';
+                },3000)
+            }
+            else{
+                Toastify({
+                    text:result.msg ||'Registration Failed',
+                    duration:3000,
+                    style: {
+                        position: 'absolute',
+                        top: '50%',
+                     
+                         // To center it horizontally
+                    },
+                    draggable:true,
+                    backgroundColor:'#F44336',
+                    stopOnFocus:true,
+                    close:true,
+                }).showToast();
+            }
+        }
+        document.getElementById('signin').addEventListener('submit',defaultLog)
+        
+     </script>
+     <script src="script.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+[
+  {
+    "id" : "bracelet_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR0843_1.jpg?v=1701348330&width=713",
+    "name": "Rose Gold Glimmering Statement Bangle",
+    "price": "6,399"
+  },
+  {
+    "id" : "bracelet_1",
+    "img": "https://www.giva.co/cdn/shop/files/BR0825_1.jpg?v=1700136233&width=713",
+    "name": "Silver Zircon Order of Opulence Bangle Bracelet",
+    "price": "5,999"
+  },
+  {
+    "id" : "bracelet_2",
+    "img": "https://www.giva.co/cdn/shop/files/BR0952_1.jpg?v=1701349144&width=713",
+    "name": "Rose Gold Magic Of Imagination Bangle",
+    "price": "7,999"
+  },
+  {
+    "id" : "bracelet_3",
+    "img":"https://www.giva.co/cdn/shop/files/BR0786_1-min.jpg?v=1689260376&width=713",
+    "name": "Golden Square Bloom Bangle",
+    "price": "7,299"
+  },
+  {
+    "id" : "bracelet_4",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0115_1.jpg?v=1697120937&width=713",
+    "name" : "Silver Woven Leaf Bracelet" ,
+    "price" : "4,099"
+  },
+  {
+    "id" : "bracelet_5",
+    "img" : "https://www.giva.co/cdn/shop/products/BR0565_1-min.jpg?v=1665071246&width=713",
+    "name" : "Golden Tear Drop Sparkly Zircon Bracelet",
+    "price" : "3,699"
+  },
+  {
+    "id" : "bracelet_6",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0939_1_bf7e500e-8996-4fe1-b262-a82c0399d2c2.jpg?v=1709114274&width=713",
+    "name" : "Uff Yeh Noor Bracelet" ,
+    "price" : "3,199"
+  },
+  {
+    "id" : "bracelet_7",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0915_1.jpg?v=1703766167&width=713",
+    "name" : "Golden Brahma Kamal Bud Bracelet" ,
+    "price" : "3,599"
+  },
+  {
+    "id" : "bracelet_8",
+    "img" : "https://www.giva.co/cdn/shop/products/BR0279_1.jpg?v=1639754520&width=713",
+    "name" : "Golden Age Bracelet" ,
+    "price" : "2,499"
+  },
+  {
+    "id" : "bracelet_9",
+    "img" : "https://www.giva.co/cdn/shop/products/BR0629_1.jpg?v=1679575598&width=713",
+    "name" : "Golden Square Prism Signature Bracelet" ,
+    "price" : "2,899"
+  },
+  {
+    "id" : "bracelet_10",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0666_1.jpg?v=1713438704&width=713",
+    "name" : "Rose Gold Intertwined In Love Bracelet" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "bracelet_11",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0723_1_bb1226ab-7c7b-41d4-984d-7b89424f0a3a.jpg?v=1696593761&width=713",
+    "name" : "Silver Deer Heart Bracelet" ,
+    "price" : "1,899"
+  },
+  {
+    "id" : "bracelet_12",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0924_1.jpg?v=1707402196&width=713",
+    "name" : "Rose Gold Pink Quartz Flower Bracelet" ,
+    "price" : "1,699"
+  },
+  {
+    "id" : "bracelet_13",
+    "img" : "https://www.giva.co/cdn/shop/products/BR0701_1.jpg?v=1709289721&width=713",
+    "name" : "Silver Mermaid's Tail Bracelet" ,
+    "price" : "2,099"
+  },
+  {
+    "id" : "bracelet_14",
+    "img" : "https://www.giva.co/cdn/shop/products/BR0580_1-min.jpg?v=1667539994&width=713",
+    "name" : "Anushka Sharma Rose Gold Lotus Bracelet" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "bracelet_15",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0922_1.jpg?v=1720176766&width=360",
+    "name" : "Silver Falling Dew Bracelet" ,
+    "price" : "1,299"
+  },
+  {
+    "id" : "bracelet_16",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0544_1.jpg?v=1711627329&width=713",
+    "name" : "Golden Planet of Love Infant Bracelet" ,
+    "price" : "1,099"
+  }
+]

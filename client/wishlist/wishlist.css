@@ -1,0 +1,71 @@
+#title h1 {
+  text-align: center;
+  padding: 10px;
+  text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+main {
+  background-color: rgb(255, 252, 195);
+  /* height: 100vh; */
+  /* padding: 40px; */
+  min-height: calc(100vh - 175px);
+}
+
+.item{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: white;
+    border-radius:10px ;
+    align-items: center;
+    margin: 10px;
+}
+
+.item > img{
+    /* height: 200px; */
+    width:90%;
+}
+
+
+.info > h6 {
+    font-size: 1rem;
+    color: grey;
+    margin-top: 10px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.buttons{
+    width: 100%;
+    display: flex;
+    gap: 5% ;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.buttons  > button{
+    width: 40%;
+    height: 30px;
+    background-color: rgb(255, 237, 138);
+    border: 1px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    /* margin-bottom:10px ; */
+}
+
+.wishlistContainer{
+    padding: 20px 40px ;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5%;
+}
+

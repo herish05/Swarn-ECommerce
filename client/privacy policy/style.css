@@ -1,0 +1,400 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --gold: #fddc5c;
+    --dark-gray: #333;
+    --light-gray: #f9f9f9;
+}
+
+::selection {
+    background-color: var(--gold);
+    color: black;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+}
+
+.offers {
+    height: 41px;
+    width: 100%;
+    background-color: var(--gold);
+}
+
+.content {
+    height: 100%;
+    width: 100%;
+    padding: 0px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav {
+    height: 134px;
+    width: 100%;
+    background-color: white;
+}
+
+section {
+    background-color: white;
+    /* color: white; */
+}
+
+.nav-placeholder {
+    display: none;
+    height: 134px;
+}
+
+.first-carousel>img {
+    margin-top: 20px;
+    width: 100%;
+    height: 390px;
+}
+
+.logo>img {
+    width: 90%;
+    height: 43px;
+    padding-right: 10%;
+}
+
+.search-bar {
+    border-color: grey;
+    border-radius: 5px;
+    height: 45px;
+    width: 100%;
+}
+
+.nav-icons {
+    display: flex;
+    gap: 4%;
+    padding-left: 8%;
+}
+
+.nav-icons>a {
+    color: black;
+    text-decoration: none;
+    /* padding-left: 18%; */
+    height: 60px;
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.nav-icons img {
+    width: 30px;
+    aspect-ratio: 1;
+}
+
+.nav {
+    display: grid;
+    grid-template-rows: 60px 45px;
+    gap: 10px;
+    padding: 15px 5% 0 5%;
+}
+
+.upper-nav {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 0.7fr 2.3fr 1fr;
+}
+
+.logo {
+    text-align: center;
+}
+
+.upper-nav>input {
+    border: 1px solid grey;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+ul {
+
+    list-style-type: none;
+}
+
+.main-filters {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+.main-filters>li {
+    padding: 10px;
+}
+
+.filter {
+    position: relative;
+}
+
+.subFilter {
+    top: 100%;
+    left: -5%;
+    width: 250px;
+    position: absolute;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    opacity: 0;
+    /* Initially invisible */
+    visibility: hidden;
+    /* Prevent interaction */
+    transition: opacity 0.5s ease, visibility 0.3s ease;
+
+}
+
+.filter:hover .subFilter {
+    opacity: 1;
+    /* Fully visible when hovered */
+    visibility: visible;
+    /* Interactable */
+
+}
+
+.subFilter li:hover {
+    background-color: var(--gold);
+}
+
+.subFilter li a {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    cursor: context-menu;
+}
+
+.subFilter li {
+    padding: 8px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.filter:hover>a {
+    color: var(--gold)
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+/* Header and navigation styles remain the same */
+
+.privacy-policy {
+    background-color: var(--light-gray);
+    padding: 40px 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.privacy-policy h1 {
+    color: #c7cd1c;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.privacy-policy h2 {
+    color: var(--dark-gray);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.privacy-policy p,
+.privacy-policy li {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+.privacy-policy a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.privacy-policy a:hover {
+    text-decoration: underline;
+}
+
+/* Footer styles remain the same */
+
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+
+    .privacy-policy h1 {
+        font-size: 28px;
+    }
+
+    .privacy-policy h2 {
+        font-size: 20px;
+    }
+
+    .privacy-policy p,
+    .privacy-policy li {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 16px;
+    }
+
+    .privacy-policy h1 {
+        font-size: 24px;
+    }
+
+    .privacy-policy h2 {
+        font-size: 18px;
+    }
+
+    .privacy-policy p,
+    .privacy-policy li {
+        font-size: 13px;
+    }
+}
+
+footer {
+    height: auto;
+    /* Set height to auto for flexibility */
+    background-color: var(--gold);
+    padding: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 1rem auto;
+    flex-wrap: wrap;
+    /* Allow wrapping on smaller screens */
+}
+
+.column {
+    width: 30%;
+}
+
+.column h2 {
+    font-size: 1.9rem;
+    margin-bottom: 2rem;
+}
+
+.column ul {
+    list-style: none;
+    padding: 16px 0;
+}
+
+.column ul li {
+    margin-bottom: 1.5rem;
+}
+
+.column ul li a {
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.column p {
+    font-size: 14px;
+}
+
+.subscription-form {
+    margin-top: 1.2rem;
+}
+
+.subscription-form input {
+    padding: 8px;
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.subscription-form button {
+    padding: 8px 16px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.social-media {
+    margin-top: 20px;
+}
+
+.social-media a {
+    margin-right: 10px;
+}
+
+.social-media img {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 0.6rem;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .column {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .subscription-form input {
+        width: 80%;
+    }
+
+    .social-media img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .column h2 {
+        font-size: 1.5rem;
+    }
+
+    .subscription-form input {
+        width: 100%;
+        margin-bottom: 10px;
+        /* Stacks the button below the input on very small screens */
+    }
+
+    .subscription-form button {
+        width: 100%;
+    }
+
+    .social-media img {
+        width: 25px;
+        height: 25px;
+    }
+}

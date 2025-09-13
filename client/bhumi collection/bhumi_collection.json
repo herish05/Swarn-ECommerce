@@ -1,0 +1,182 @@
+[
+  {
+    "id" : "the_bhumi_collection_0",
+    "img": "https://www.giva.co/cdn/shop/files/BR01016_1.jpg?v=1724837854&width=713",
+    "name": "Silver Embracing Musli Bracelet",
+    "price": "5,999"
+  },
+  {
+    "id" : "the_bhumi_collection_1",
+    "img": "https://www.giva.co/cdn/shop/files/PD02453_1.jpg?v=1724837579&width=713",
+    "name": "Rose Gold One in a Trillium Necklace",
+    "price": "3,399"
+  },
+  {
+    "id" : "the_bhumi_collection_2",
+    "img": "https://www.giva.co/cdn/shop/files/ER02714_1_1.jpg?v=1724837942&width=713",
+    "name": "Silver Snowy Safed Musli Earrings",
+    "price": "3,599"
+  },
+  {
+    "id" : "the_bhumi_collection_3",
+    "img":"https://www.giva.co/cdn/shop/files/ER02712_1.jpg?v=1724836519&width=713",
+    "name": "Silver Eyebright Hoop Earrings",
+    "price": "4,999"
+  },
+  {
+    "id" : "the_bhumi_collection_4",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02708_1_9f22634b-2f90-497f-8bb2-5090d7a8e784.jpg?v=1724836866&width=713",
+    "name" : "Rose Gold Bewitching Brahma Kamal Convertible Earrings" ,
+    "price" : "3,599"
+  },
+  {
+    "id" : "the_bhumi_collection_5",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02707_1.jpg?v=1724837515&width=713",
+    "name" : "Rose Gold Shy Ebony Earrings",
+    "price" : "3,299"
+  },
+  {
+    "id" : "the_bhumi_collection_6",
+    "img" : "https://www.giva.co/cdn/shop/files/R01746_1.jpg?v=1724837389&width=713",
+    "name" : "Rose Gold Blue Rising Bell Mallow Ring" ,
+    "price" : "2,199"
+  },
+  {
+    "id" : "the_bhumi_collection_7",
+    "img" : "https://www.giva.co/cdn/shop/files/R01745_1.jpg?v=1724838002&width=713",
+    "name" : "Silver Mountain Ebony Ring" ,
+    "price" : "2,299"
+  },
+  {
+    "id" : "the_bhumi_collection_8",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02450_1.jpg?v=1724836966&width=713",
+    "name" : "Rose Gold Bewitching Brahma Kamal Necklace" ,
+    "price" : "4,599"
+  },
+  {
+    "id" : "the_bhumi_collection_9",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02449_1.jpg?v=1724835846&width=713",
+    "name" : "Rose Gold Brilliant Red Eyebright Trio Necklace" ,
+    "price" : "3,999"
+  },
+  {
+    "id" : "the_bhumi_collection_10",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02446_1_879ed1d3-4129-4a38-bd9f-0e5e4f8836a5.jpg?v=1724837703&width=713",
+    "name" : "Rose Gold Pink Trillium Necklace" ,
+    "price" : "7,999"
+  },
+  {
+    "id" : "the_bhumi_collection_11",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02261_ER02501_1.jpg?v=1697797664&width=713",
+    "name" : "Golden Eye Bright Affection Set" ,
+    "price" : "7,999"
+  },
+  {
+    "id" : "the_bhumi_collection_12",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0866_PD02191_ER02514_1.jpg?v=1697797407&width=713",
+    "name" : "Golden Classic Bell Mallow Set of 3" ,
+    "price" : "12,099"
+  },
+  {
+    "id" : "the_bhumi_collection_13",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02197_ER02449_1.jpg?v=1694678898&width=713",
+    "name" : "Rose Gold Snowy Safed Musli Set" ,
+    "price" : "9,999"
+  },
+  {
+    "id" : "the_bhumi_collection_14",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02278_1-min-min.jpg?v=1697723162&width=713",
+    "name" : "Rose Gold Brahma Kamal Statement Necklace" ,
+    "price" : "17,899"
+  },
+  {
+    "id" : "the_bhumi_collection_15",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02520_1.jpg?v=1710593725&width=360",
+    "name" : "Silver Iconic Eyebright Hoop Earrings" ,
+    "price" : "6,199"
+  },
+  {
+    "id" : "the_bhumi_collection_16",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02514_1_9475eee8-875c-4850-8f11-e8d2e3a7bf6f.jpg?v=1709191252&width=713",
+    "name" : "Golden Classic Bell Mallow Convertible Earrings" ,
+    "price" : "5,599"
+  },
+  {
+    "id" : "the_bhumi_collection_17",
+    "img": "https://www.giva.co/cdn/shop/files/R01599_1.jpg?v=1703326391&width=713",
+    "name": "Golden Zirconia Brahma Kamal Ring",
+    "price": "1,799"
+  },
+  {
+    "id" : "the_bhumi_collection_18",
+    "img": "https://www.giva.co/cdn/shop/files/ER02508_1.jpg?v=1697722370&width=713",
+    "name": "Golden Elegant Eyebright Sui Dhaga Earrings",
+    "price": "3,999"
+  },
+  {
+    "id" : "the_bhumi_collection_19",
+    "img":"https://www.giva.co/cdn/shop/files/ER02504_1.jpg?v=1703772557&width=713",
+    "name": "Rose Gold And Golden Dazzling Musli Ear Cuffs",
+    "price": "6,699"
+  },
+  {
+    "id" : "the_bhumi_collection_20",
+    "img" : "https://www.giva.co/cdn/shop/products/PD02268_1.jpg?v=1703582060&width=713",
+    "name" : "Gold Eye Bright Flower Lariat Necklace" ,
+    "price" : "4,499"
+  },
+  {
+    "id" : "the_bhumi_collection_21",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02267_1.jpg?v=1697722421&width=713",
+    "name" : "Golden Elegant Eyebright Necklace",
+    "price" : "3,999"
+  },
+  {
+    "id" : "the_bhumi_collection_22",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02501_1-min.jpg?v=1697723078&width=713",
+    "name" : "Golden Eye Bright Affection Earrings" ,
+    "price" : "2,999"
+  },
+  {
+    "id" : "the_bhumi_collection_23",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02261_1.jpg?v=1697722147&width=713",
+    "name" : "Golden Elegant Eyebright Lariat Necklace" ,
+    "price" : "4,999"
+  },
+  {
+    "id" : "the_bhumi_collection_24",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02197_5.jpg?v=1694511451&width=360",
+    "name" : "Rose Gold Snowy Safed Musli Necklace" ,
+    "price" : "5,599"
+  },
+  {
+    "id" : "the_bhumi_collection_25",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02432_1_41e422b2-b076-4992-8dc3-b8cf5b942c5c.jpg?v=1709188178&width=713",
+    "name" : "Golden Bell Mallow Bud Convertible Earrings" ,
+    "price" : "6,699"
+  },
+  {
+    "id" : "the_bhumi_collection_26",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02184_1-min.jpg?v=1697723098&width=713",
+    "name" : "Rose Gold Shy Ebony Necklace" ,
+    "price" : "6,199"
+  },
+  {
+    "id" : "the_bhumi_collection_27",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02426_5.jpg?v=1702374453&width=360",
+    "name" : "Rose Gold Dance of Musli Earrings" ,
+    "price" : "5,599"
+  },
+  {
+    "id" : "the_bhumi_collection_28",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02401_1.jpg?v=1694461068&width=713",
+    "name" : "Golden Beaming Bell Mallow Cuff Earrings" ,
+    "price" : "2,699"
+  },
+  {
+    "id" : "the_bhumi_collection_29",
+    "img" : "https://www.giva.co/cdn/shop/files/BR01017_1.jpg?v=1727960623&width=713",
+    "name" : "Rose Gold Blossom Mountain Ebony Spin Bracelet" ,
+    "price" : "4,599"
+  }
+]

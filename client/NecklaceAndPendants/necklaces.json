@@ -1,0 +1,98 @@
+[
+  {
+    "id": "necklace_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLP0128_1.jpg?v=1688652462&width=713",
+    "name": "Gold Sophisticated Symphony Diamond Pendant",
+    "price": "13,825"
+  },
+  {
+    "id": "necklace_1",
+    "img": "https://www.giva.co/cdn/shop/files/GDLPD0143_1.jpg?v=1694698333&width=713",
+    "name": "Gold Classic Flow Diamond Pendant",
+    "price": "23,491"
+  },
+  {
+    "id": "necklace_2",
+    "img": "https://www.giva.co/cdn/shop/files/GDLPD0242_1_cfded3e9-0d85-4e96-adb0-074463f7da5f.jpg?v=1718257276&width=713",
+    "name": "Gold Bright Flame Diamond Pendant",
+    "price": "21,434"
+  },
+  {
+    "id": "necklace_3",
+    "img":"https://www.giva.co/cdn/shop/files/GDLPD0243_1.jpg?v=1709820571&width=713",
+    "name": "Gold Kanha's Flute Diamond Pendant",
+    "price": "18,099"
+  },
+  {
+    "id": "necklace_4",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02318_1.jpg?v=1704370026&width=713",
+    "name" : "Silver Love in Circles Necklace",
+    "price" : "12,299"
+  },
+  {
+    "id": "necklace_5",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01881_1.jpg?v=1683811997&width=713",
+    "name" : "Silver Gleaming Bridal Necklace",
+    "price" : "24,599"
+  },
+  {
+    "id": "necklace_6",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02036_1.jpg?v=1698931445&width=713",
+    "name" : "Silver Glittering Hexagon Necklace",
+    "price" : "4,999"
+  },
+  {
+    "id": "necklace_7",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02112_1.jpg?v=1695300769&width=713",
+    "name" : "Golden Radiating Star Necklace",
+    "price" : "3,099"
+  },
+  {
+    "id": "necklace_8",
+    "img" : "https://www.giva.co/cdn/shop/products/PD0567_1.jpg?v=1644055694&width=713",
+    "name" : "Golden Bonding Hearts Pendant With Link Chain",
+    "price" : "3,399"
+  },
+  {
+    "id": "necklace_9",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01876_1.jpg?v=1691070942&width=713",
+    "name" : "Rose Gold Floral Vine Necklace",
+    "price" : "3,399"
+  },
+  {
+    "id": "necklace_10",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02261_1.jpg?v=1697722147&width=713",
+    "name" : "Golden Elegant Eyebright Lariat Necklace",
+    "price" : "4,999"
+  },
+  {
+    "id": "necklace_11",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01335_1.jpg?v=1694700287&width=713",
+    "name" : "Rose Gold Deer Heart Necklace",
+    "price" : "2,099"
+  },
+  {
+    "id": "necklace_12",
+    "img" : "https://www.giva.co/cdn/shop/files/PD0479_1.jpg?v=1711627761&width=713",
+    "name" : "Stay Golden Necklace",
+    "price" : "1,799"
+  },
+  {
+    "id": "necklace_13",
+    "img" : "https://www.giva.co/cdn/shop/files/PD0559_1.jpg?v=1711631327&width=713",
+    "name" : "Rose Gold Whole Heart Necklace",
+    "price" : "1,799"
+  },
+  {
+    "id": "necklace_14",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02438_1.jpg?v=1711023696&width=713",
+    "name" : "Golden Glint Pendant With Link Chain",
+    "price" : "1,399"
+  },
+  {
+    "id": "necklace_15",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01957_1.jpg?v=1711026365&width=713",
+    "name" : "Golden Trigon Pendant With Link Chain",
+    "price" : "1,199"
+  }
+]

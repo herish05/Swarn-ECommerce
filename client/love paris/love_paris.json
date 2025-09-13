@@ -1,0 +1,74 @@
+[
+  {
+    "id" : "love_in_paris_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD01220_1.jpg?v=1711627531&width=713",
+    "name": "Rose Gold Flowing Crocus Pendant with Link Chain",
+    "price": "2,099"
+  },
+  {
+    "id" : "love_in_paris_1",
+    "img": "https://www.giva.co/cdn/shop/files/ER01272_1_1.jpg?v=1695303202&width=713",
+    "name": "Rose Gold Blossoming Crocus Earrings",
+    "price": "1,899"
+  },
+  {
+    "id" : "love_in_paris_2",
+    "img": "https://www.giva.co/cdn/shop/files/PD01986_1.jpg?v=1696512295&width=713",
+    "name": "Rose Gold Notre Dame Pendant With Link Chain",
+    "price": "2,799"
+  },
+  {
+    "id" : "love_in_paris_3",
+    "img":"https://www.giva.co/cdn/shop/products/ER01398_1.jpg?v=1668090089&width=713",
+    "name": "Silver Blooming Crocus Earrings",
+    "price": "2,199"
+  },
+  {
+    "id" : "love_in_paris_4",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01315_1.jpg?v=1694084839&width=713",
+    "name" : "Rose Gold French Beauty Necklace" ,
+    "price" : "4,399"
+  },
+  {
+    "id" : "love_in_paris_5",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0782_1.jpg?v=1696513241&width=713",
+    "name" : "Rose Gold Crocus Love Bracelet",
+    "price" : "2,399"
+  },
+  {
+    "id" : "love_in_paris_6",
+    "img" : "https://www.giva.co/cdn/shop/files/ER01275_PD01986_5_e9d7e03e-d836-4728-b37f-f486c7513437.jpg?v=1696510917&width=360",
+    "name" : "Rose Gold Notre Dame Set" ,
+    "price" : "4,299"
+  },
+  {
+    "id" : "love_in_paris_7",
+    "img" : "https://www.giva.co/cdn/shop/products/PD01315_ER1373_1-min.jpg?v=1668087686&width=713",
+    "name" : "Rose Gold French Beauty Set" ,
+    "price" : "5,899"
+  },
+  {
+    "id" : "love_in_paris_8",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02134_5_ab30a2f2-6a8c-4a72-9144-85bc4c2e6593.jpg?v=1696513638&width=360",
+    "name" : "Rose Gold Dream Tower Teardrop Earrings" ,
+    "price" : "3,699"
+  },
+  {
+    "id" : "love_in_paris_9",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0779_5_31ca200a-8ad7-4ef1-96b0-4f97e33a4156.jpg?v=1696572714&width=360",
+    "name" : "Rose Gold Love In Paris Bracelet" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "love_in_paris_10",
+    "img" : "https://www.giva.co/cdn/shop/files/R01058_1.jpg?v=1688046853&width=713",
+    "name" : "Rose Gold Louvre Inspired Ring" ,
+    "price" : "2,099"
+  },
+  {
+    "id" : "love_in_paris_11",
+    "img" : "https://www.giva.co/cdn/shop/files/BR0910_1.jpg?v=1696513259&width=713",
+    "name" : "Rose Gold Movable Crocus Bracelet" ,
+    "price" : "3,099"
+  }
+]

@@ -1,0 +1,123 @@
+[
+    {
+      "id" : "mens_pandent_0",
+      "img": "https://www.giva.co/cdn/shop/files/PD01149_1_4ee90034-3c9a-473e-b72e-894d6e90f61c.jpg?v=1718702934&width=713",
+      "name": "Silver Striped Cross Pendant with Box Chain",
+      "price": "1,799"
+    },
+    {
+      "id" : "mens_pandent_1",
+      "img": "https://www.giva.co/cdn/shop/files/PD0864_1_1af4c045-a4b7-46c9-a9b0-6da9bcf4cbaf.jpg?v=1718193998&width=713",
+      "name": "Oxidised Silver Zodiac Spin Pendant With Box Chain",
+      "price": "2,799"
+    },
+    {
+      "id" : "mens_pandent_2",
+      "img": "https://www.giva.co/cdn/shop/files/PD02070_1_b8bfbac4-5b4a-4de7-9bd6-b3060f2ca448.jpg?v=1718701966&width=713",
+      "name": "Silver Graceful Om Pendant With Box Chain",
+      "price": "2,699"
+    },
+    {
+      "id" : "mens_pandent_3",
+      "img":"https://www.giva.co/cdn/shop/files/PD01294_1_7fa07436-8e45-4396-9f94-2cb13442fdc2.jpg?v=1719488524&width=713",
+      "name": "Silver Kite Pendant with Box Chain",
+      "price": "2,199"
+    },
+    {
+      "id" : "mens_pandent_4",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02043_1_80d82052-0562-4ad8-afca-6dbfc0b50376.jpg?v=1717677590&width=1946",
+      "name" : "Silver Heavenly Peace Pendant With Box Chain" ,
+      "price" : "2,699"
+    },
+    {
+      "id" : "mens_pandent_5",
+      "img" : "https://www.giva.co/cdn/shop/files/PD0853_1.jpg?v=1719488500&width=713",
+      "name" : "Golden Gleaming Ganesha Pendant With Link Chain ",
+      "price" : "2,899"
+    },
+    {
+      "id" : "mens_pandent_6",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02484_1_34b71235-7f27-436b-9d69-a12ec08f6acb.jpg?v=1720272458&width=713",
+      "name" : "Silver Mahabali Hanuman Pendant with Box Chain " ,
+      "price" : "3,099"
+    },
+    {
+      "id" : "mens_pandent_7",
+      "img" : "https://www.giva.co/cdn/shop/files/AVPD0167_1_0bea0ce8-fc20-4c55-8068-ac01c8f6c3fc.jpg?v=1718775082&width=713",
+      "name" : "Silver Trident Pendant with Box Chain",
+      "price" : "3,399"
+    },
+    {
+      "id" : "mens_pandent_8",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02435_1.jpg?v=1707402569&width=713",
+      "name" : "Silver Hanuman Gada Pendant with Box Chain" ,
+      "price" : "2,999"
+    },
+    {
+      "id" : "mens_pandent_9",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02437_1_65bf830a-2262-4217-9559-0703e005751f.jpg?v=1718194448&width=713",
+      "name" : "Silver Bhakta Hanuman Pendant with Box Chain" ,
+      "price" : "3,199"
+    },
+    {
+      "id" : "mens_pandent_10",
+      "img" : "https://www.giva.co/cdn/shop/files/PD01292_1.jpg?v=1720272069&width=713",
+      "name" : "Silver Compass of Life Pendant with Link Chain" ,
+      "price" : "2,299"
+    },
+    {
+      "id" : "mens_pandent_11",
+      "img" : "https://www.giva.co/cdn/shop/files/PD0716_1.jpg?v=1694156286&width=713",
+      "name" : "Silver Tiger Tooth Pendant with Link Chain" ,
+      "price" : "3,399"
+    },
+    {
+      "id" : "mens_pandent_12",
+      "img" : "https://www.giva.co/cdn/shop/files/PD0389_1_628835d9-bdf2-46ff-8a4e-b05d3279c4df.jpg?v=1720088795&width=1946",
+      "name" : "Silver Sunny Side Pendant With Link Chain" ,
+      "price" : "2,399"
+    },
+    {
+      "id" : "mens_pandent_13",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02489_1.jpg?v=1719488681&width=713",
+      "name" : "Silver Trishul Rudraksha Pendant" ,
+      "price" : "4,299"
+    },
+    {
+      "id" : "mens_pandent_14",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02490_1.jpg?v=1718878303&width=713",
+      "name" : "Silver Trishul And Rudraksha Pendant With Box Chain" ,
+      "price" : "3,899"
+    },
+    {
+      "id" : "mens_pandent_15",
+      "img" : "https://www.giva.co/cdn/shop/files/PD02482_1_39eba6df-8c66-4f3d-b950-5dd0e2f08c82.jpg?v=1718702978&width=713",
+      "name" : "Silver Shree Ram Pendant with Link Chain" ,
+      "price" : "2,899"
+    },
+    {
+      "id" : "mens_pandent_16",
+      "img" : "https://www.giva.co/cdn/shop/files/PD01966_1.jpg?v=1715861530&width=713",
+      "name" : "Golden League Pendant With Link Chain" ,
+      "price" : "4,199"
+    },
+    {
+        "id" : "mens_pandent_17",
+        "img" : "https://www.giva.co/cdn/shop/files/PD02492_1.jpg?v=1720271976&width=713",
+        "name" : "Silver Knight's Emblem Pendant with Box Chain" ,
+        "price" : "4,099"
+    },
+    {
+        "id" : "mens_pandent_18",
+        "img" : "https://www.giva.co/cdn/shop/files/R01793_1_31c1c333-2c67-4e4c-a02f-935de5d1de40.jpg?v=1726572323&width=713https://www.giva.co/cdn/shop/files/PD02459_1.jpg?v=1717677940&width=713",
+        "name" : "Silver Sporty Chain For Him" ,
+        "price" : "15,999"
+    },
+    {
+        "id" : "mens_pandent_19",
+        "img" : "https://www.giva.co/cdn/shop/files/PD02040_1_8ab23ee8-f195-45b5-9990-39dcb4a05316.jpg?v=1719488613&width=713",
+        "name" : "Oxidised Silver Skeletal Hand Pendant With Box Chain" ,
+        "price" : "3,199"
+      }
+  ]
+  

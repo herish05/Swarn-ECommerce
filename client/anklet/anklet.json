@@ -1,0 +1,110 @@
+[
+  {
+    "id" : "anklet_0",
+    "img": "https://www.giva.co/cdn/shop/files/A0277_5.jpg?v=1715596810&width=360",
+    "name": "Silver Gypsy Gleams Anklet",
+    "price": "1,699"
+  },
+  {
+    "id" : "anklet_1",
+    "img": "https://www.giva.co/cdn/shop/files/A0028_5.jpg?v=1716375832&width=713",
+    "name": "Rose Gold Heart Anklet",
+    "price": "3,699"
+  },
+  {
+    "id" : "anklet_2",
+    "img": "https://www.giva.co/cdn/shop/files/A0040_5.jpg?v=1715939747&width=713",
+    "name": "Rose Gold Layered Queen's Anklet",
+    "price": "3,099"
+  },
+  {
+    "id" : "anklet_3",
+    "img":"https://www.giva.co/cdn/shop/files/A0056_5.jpg?v=1716375923&width=713",
+    "name": "Silver Heart Melting Chain Anklet",
+    "price": "1,399"
+  },
+  {
+    "id" : "anklet_4",
+    "img" : "https://www.giva.co/cdn/shop/files/A0052_5.jpg?v=1715261254&width=713",
+    "name" : "Silver Dangling Triple Leaf Charm Anklet" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "anklet_5",
+    "img" : "https://www.giva.co/cdn/shop/files/A0290_5.jpg?v=1721109301&width=713",
+    "name" : "Silver Triple Flora Anklet",
+    "price" : "1,999"
+  },
+  {
+    "id" : "anklet_6",
+    "img" : "https://www.giva.co/cdn/shop/files/A0263_5.jpg?v=1715261403&width=713",
+    "name" : "Golden Star Constellation Anklet" ,
+    "price" : "2,399"
+  },
+  {
+    "id" : "anklet_7",
+    "img" : "https://www.giva.co/cdn/shop/products/A073_5.jpg?v=1718279156&width=713",
+    "name" : "Silver Infinity Anklet" ,
+    "price" : "4,499"
+  },
+  {
+    "id" : "anklet_8",
+    "img" : "https://www.giva.co/cdn/shop/files/A0295_5.jpg?v=1724246333&width=713",
+    "name" : "Rose Gold Your Simplicity Anklet" ,
+    "price" : "2,499"
+  },
+  {
+    "id" : "anklet_9",
+    "img" : "https://www.giva.co/cdn/shop/files/A0229_5_8faa45de-eda8-4d6e-b0af-5bac6f3c76f1.jpg?v=1714385537&width=713",
+    "name" : "Rose Gold And Golden Cable Chain Anklet" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "anklet_10",
+    "img" : "https://www.giva.co/cdn/shop/files/A0161_5.jpg?v=1715939580&width=713",
+    "name" : "Golden Elegant Knot Anklet" ,
+    "price" : "2,199"
+  },
+  {
+    "id" : "anklet_11",
+    "img" : "https://www.giva.co/cdn/shop/files/A0214_5_e28c1ef5-1426-4b67-8cd0-96dc7897ca1e.jpg?v=1716526606&width=713",
+    "name" : "Golden Step Up Anklet" ,
+    "price" : "2,899"
+  },
+  {
+    "id" : "anklet_12",
+    "img" : "https://www.giva.co/cdn/shop/files/A0304_5.jpg?v=1724246396&width=713",
+    "name" : "Rose Gold Glowy Leaf Anklet" ,
+    "price" : "3,499"
+  },
+  {
+    "id" : "anklet_13",
+    "img" : "https://www.giva.co/cdn/shop/products/A0151_5-min.jpg?v=1714385145&width=713",
+    "name" : "Rose Gold Geometric Anklet" ,
+    "price" : "6,499"
+  },
+  {
+    "id" : "anklet_14",
+    "img" : "https://www.giva.co/cdn/shop/files/A0222_5-min.jpg?v=1716008365&width=713",
+    "name" : "Silver Zircon Studded Square Anklet" ,
+    "price" : "6,599"
+  },
+  {
+    "id" : "anklet_15",
+    "img" : "https://www.giva.co/cdn/shop/files/A0182_5-min.jpg?v=1715939637&width=713",
+    "name" : "Golden Precious Cowry Anklet" ,
+    "price" : "11,199"
+  },
+  {
+    "id" : "anklet_16",
+    "img" : "https://www.giva.co/cdn/shop/files/A0224_5.jpg?v=1721219491&width=713",
+    "name" : "Golden Belle Of The Ball Anklet" ,
+    "price" : "5,799"
+  },
+  {
+    "id" : "anklet_17",
+    "img" : "https://www.giva.co/cdn/shop/files/A0159_1.jpg?v=1720793351&width=713",
+    "name" : "Golden Stellar Orbs Anklet" ,
+    "price" : "11,099"
+  }
+]

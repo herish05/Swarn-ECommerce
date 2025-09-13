@@ -1,0 +1,104 @@
+[
+  {
+    "id" : "earring_0",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER020_1.jpg?v=1721888342&width=713",
+    "name": "Gold Classic Solitaire Diamond Stud Earrings",
+    "price": "34,908"
+  },
+  {
+    "id" : "earring_1",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER0246_1_abfaadd4-f439-4809-9614-0c68398331e6.jpg?v=1721311154&width=713",
+    "name": "Rose Gold Miracle Diamond Earrings",
+    "price": "28,306"
+  },
+  {
+    "id" : "earring_2",
+    "img": "https://www.giva.co/cdn/shop/files/GDLER013_1.jpg?v=1721888203&width=713",
+    "name": "Gold Glitter Diamond Earrings",
+    "price": "37,678"
+  },
+  {
+    "id" : "earring_3",
+    "img":"https://www.giva.co/cdn/shop/products/GDLER015_1.jpg?v=1681882197&width=713",
+    "name": "Gold Radiant Drop Diamond Earrings",
+    "price": "23,261"
+  },
+  {
+    "id" : "earring_4",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02411_1-min.jpg?v=1697723057&width=713",
+    "name" : "Rose Gold Ebony Whimsy Dangler Earrings" ,
+    "price" : "8,999"
+  },
+  {
+    "id" : "earring_5",
+    "img" : "https://www.giva.co/cdn/shop/products/GDLER0118_1_bc86cf16-8aff-4a5e-86ca-2756960a7cf4.jpg?v=1709618517&width=713",
+    "name" : "Gold Exquisite Trio Diamond Stud Earrings",
+    "price" : "10,099"
+  },
+  {
+    "id" : "earring_6",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02488_5.jpg?v=1694462256&width=713",
+    "name" : "Golden Bewitching Brahma Kamal Convertible Earrings" ,
+    "price" : "3,699"
+  },
+  {
+    "id" : "earring_7",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02712_1.jpg?v=1724836519&width=713",
+    "name" : "Silver Eyebright Hoop Earrings" ,
+    "price" : "4,999"
+  },
+  {
+    "id" : "earring_8",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02052_1_1.jpg?v=1709190546&width=713",
+    "name" : "Rose Gold Filigree Pearl Grace Earrings" ,
+    "price" : "3,899"
+  },
+  {
+    "id" : "earring_9",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02548_1.jpg?v=1709114471&width=713",
+    "name" : "Sawarne Lage Earrings" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "earring_10",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02500_1.jpg?v=1696079959&width=713",
+    "name" : "Silver Princess Earrings" ,
+    "price" : "1,899"
+  },
+  {
+    "id" : "earring_11",
+    "img" : "https://www.giva.co/cdn/shop/files/ER0684_1.jpg?v=1703764730&width=713",
+    "name" : "The White Periwinkle Earrings" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "earring_12",
+    "img" : "https://www.giva.co/cdn/shop/files/ER01966_1.jpg?v=1692861824&width=713",
+    "name" : "Rose Gold Wavecrest Earrings" ,
+    "price" : "1,599"
+  },
+  {
+    "id" : "earring_13",
+    "img" : "https://www.giva.co/cdn/shop/products/ER01784_5.jpg?v=1716455001&width=713",
+    "name" : "Rose Gold Romantic Rapture Stud Earrings" ,
+    "price" : "2,299"
+  },
+  {
+    "id" : "earring_14",
+    "img" : "https://www.giva.co/cdn/shop/products/ER0735_1_-min.jpg?v=1663253039&width=713",
+    "name" : "Golden Fluttering Butterfly Earrings" ,
+    "price" : "1,799"
+  },
+  {
+    "id" : "earring_15",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02106_1.jpg?v=1695302176&width=713",
+    "name" : "Silver Bloomfire Zirconia Earrings" ,
+    "price" : "799"
+  },
+  {
+    "id" : "earring_16",
+    "img" : "https://www.giva.co/cdn/shop/files/ER02087_1.jpg?v=1690461396&width=713",
+    "name" : "Golden Mini Floral Earrings" ,
+    "price" : "899"
+  }
+]

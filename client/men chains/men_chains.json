@@ -1,0 +1,45 @@
+[
+    {
+      "id" : "mens_chain_0",
+      "img": "https://www.giva.co/cdn/shop/files/CH0110_1_48ca48f9-5b7e-423d-8e7e-4926851ff2dc.jpg?v=1720008225&width=713",
+      "name": "Silver Link Aura Chain",
+      "price": "4,499"
+    },
+    {
+      "id" : "mens_chain_1",
+      "img": "https://www.giva.co/cdn/shop/files/CH0137_1.jpg?v=1725537739&width=713",
+      "name": "Silver Classic Love Chain",
+      "price": "6,699"
+    },
+    {
+      "id" : "mens_chain_2",
+      "img": "https://www.giva.co/cdn/shop/files/CH0111_1_e54af17d-49e9-463a-8e14-3db8c159215e.jpg?v=1719219225&width=713",
+      "name": "Golden Twilight Chain",
+      "price": "3,899"
+    },
+    {
+      "id" : "mens_chain_3",
+      "img":"https://www.giva.co/cdn/shop/files/CH0133_1_8efab8c2-b7e1-4708-a62e-c269054d2f6f.jpg?v=1720506888&width=713",
+      "name": "Golden Charismatic Chain",
+      "price": "7,799"
+    },
+    {
+      "id" : "mens_chain_4",
+      "img" : "https://www.giva.co/cdn/shop/files/CH0126_1.jpg?v=1708005483&width=713",
+      "name" : "Golden Close Wave Chain" ,
+      "price" : "4,799"
+    },
+    {
+      "id" : "mens_chain_5",
+      "img" : "https://www.giva.co/cdn/shop/files/CH0173_1.jpg?v=1718880516&width=713",
+      "name" : "Silver Valour Chain",
+      "price" : "3,499"
+    },
+    {
+      "id" : "mens_chain_6",
+      "img" : "https://www.giva.co/cdn/shop/files/BR01083_1.jpg?v=1723123914&width=713",
+      "name" : "Silver Crest Chain" ,
+      "price" : "4,999"
+    }
+  ]
+  

@@ -1,0 +1,110 @@
+[
+  {
+    "id" : "mens_all_0",
+    "img": "https://www.giva.co/cdn/shop/files/PD02484_1_34b71235-7f27-436b-9d69-a12ec08f6acb.jpg?v=1720272458&width=713",
+    "name": "Silver Mahabali Hanuman Pendant with Box Chain For Him",
+    "price": "3,099"
+  },
+  {
+    "id" : "mens_all_1",
+    "img": "https://www.giva.co/cdn/shop/products/BR0763_1.jpg?v=1674137994&width=713",
+    "name": "Silver Classic Bracelet for Him",
+    "price": "5,499"
+  },
+  {
+    "id" : "mens_all_2",
+    "img": "https://www.giva.co/cdn/shop/files/R01205_1_c1c1f020-91f7-4c7a-a50b-d15ae2c9158d.jpg?v=1717679741&width=713",
+    "name": "Golden Prominence Ring For Him",
+    "price": "1,799"
+  },
+  {
+    "id" : "mens_all_3",
+    "img":"https://www.giva.co/cdn/shop/files/BR0330_1.jpg?v=1719488440&width=713",
+    "name": "Silver Classy Link Bracelet For Him",
+    "price": "5,499"
+  },
+  {
+    "id" : "mens_all_4",
+    "img" : "https://www.giva.co/cdn/shop/files/CH0126_1.jpg?v=1708005483&width=713",
+    "name" : "Golden Close Wave Chain For Him" ,
+    "price" : "4,799"
+  },
+  {
+    "id" : "mens_all_5",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02489_1.jpg?v=1719488681&width=713",
+    "name" : "Silver Trishul Rudraksha Pendant With Box Chain For Him",
+    "price" : "4,299"
+  },
+  {
+    "id" : "mens_all_6",
+    "img" : "https://www.giva.co/cdn/shop/files/R01370_1_0f751db3-ca11-4c72-8cc8-364d0ca4528a.jpg?v=1718195623&width=713",
+    "name" : "Golden Zircon Ornate Ring For Him" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "mens_all_7",
+    "img" : "https://www.giva.co/cdn/shop/files/BR01054_1-min.jpg?v=1717677783&width=713",
+    "name" : "Silver Highness Bracelet For Him" ,
+    "price" : "9,999"
+  },
+  {
+    "id" : "mens_all_8",
+    "img" : "https://www.giva.co/cdn/shop/files/R01097_1-min.jpg?v=1718194302&width=713",
+    "name" : "Golden Tenor Ring For Him" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "mens_all_9",
+    "img" : "https://www.giva.co/cdn/shop/files/R0578_1-min.jpg?v=1718880242&width=713",
+    "name" : "Golden Rise Star Ring for Him" ,
+    "price" : "4,299"
+  },
+  {
+    "id" : "mens_all_10",
+    "img" : "https://www.giva.co/cdn/shop/files/BR01079_1_25a52f19-155d-48ea-a30b-84e59b9e4a4c.jpg?v=1724317371&width=713",
+    "name" : "Silver Kingpin Bracelet For Him" ,
+    "price" : "7,999"
+  },
+  {
+    "id" : "mens_all_11",
+    "img" : "https://www.giva.co/cdn/shop/files/PD01966_5.jpg?v=1715861530&width=360",
+    "name" : "Golden League Pendant With Link Chain For Him" ,
+    "price" : "3,399"
+  },
+  {
+    "id" : "mens_all_12",
+    "img" : "https://www.giva.co/cdn/shop/files/PD02487_1_6e0497b6-ed51-4be8-898b-b7c0e76d334c.jpg?v=1718194521&width=713",
+    "name" : "Silver Ugra Narasimha Pendant with Link Chain" ,
+    "price" : "4,499"
+  },
+  {
+    "id" : "mens_all_13",
+    "img" : "https://www.giva.co/cdn/shop/files/R01296_1_a705a7c0-bcee-4041-8482-559afa15c2fd.jpg?v=1718195152&width=713",
+    "name" : "Silver Fashionable Ring For Him" ,
+    "price" : "4,799"
+  },
+  {
+    "id" : "mens_all_14",
+    "img" : "https://www.giva.co/cdn/shop/files/PD0853_1.jpg?v=1719488500&width=713",
+    "name" : "Golden Gleaming Ganesha Pendant With Link Chain For Him" ,
+    "price" : "2,899"
+  },
+  {
+    "id" : "mens_all_15",
+    "img" : "https://www.giva.co/cdn/shop/files/R01284_1_daa4c9e6-9471-4b3d-a960-6f17ca0bdf93.jpg?v=1717675761&width=713",
+    "name" : "Golden Square in Rectangle Ring For Him" ,
+    "price" : "2,399"
+  },
+  {
+    "id" : "mens_all_16",
+    "img" : "https://www.giva.co/cdn/shop/files/CH0172_1.jpg?v=1721470040&width=713",
+    "name" : "Silver Crest Chain For Him" ,
+    "price" : "4,999"
+  },
+  {
+    "id" : "mens_all_17",
+    "img": "https://www.giva.co/cdn/shop/files/R0200_1.jpg?v=1717677977&width=713",
+    "name": "Silver Rock-Solid Men's Ring",
+    "price": "3,099"
+  }
+]

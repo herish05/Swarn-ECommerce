@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Swarn</title>
+    <link rel="icon" href="../imgs/swarn-favicon-color.png" type="image/icon type" />
+    <link rel="stylesheet" href='../style2.css' />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="cart.css">
+  </head>
+  <body>
+    <header>
+      <div class="offers">
+        <div class="content">Pan India Free Shipping!</div>
+      </div>
+      <div class="nav">
+        <div class="upper-nav">
+          <a href="../landingPage.html" class="logo"
+            ><img
+              src="../images/swarn-high-resolution-logo-transparent.png"
+              alt=""
+          /></a>
+          <input
+            class="search-bar"
+            type="text"
+            placeholder="Search your Ring..."
+          />
+          <div class="nav-icons">
+            <a href="../store/store.html"
+              ><img
+                src="../images/storefront_25dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              /><span>Stores</span></a
+            >
+            <a href="../login.html" id="account"
+              ><img
+                src="../images/person_25dp_00000_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              />
+              <span>Account</span></a
+            >
+            <a href="../wishlist/wishlist.html"
+              ><img
+                src="../images/favorite_25dp_00000_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              />
+              <span>Wishlist</span>
+            </a>
+            <a href="./cart.html" id="cart-a">
+              <span id="cart-icon">0</span>
+              <img
+                src="../images/shopping_cart_25dp_00000_FILL0_wght400_GRAD0_opsz24.png"
+                alt=""
+              />
+              <span>Cart</span></a
+            >
+          </div>
+        </div>
+        <div class="lower-nav">
+          <ul class="main-filters">
+            <li class="filter">
+              <a href="">Shop by Category</a>
+              <ul class="subFilter">
+                <!-- <li><a href="">All</a></li> -->
+                <li><a href="../rings/rings.html">Rings</a></li>
+                <li><a href="../NecklaceAndPendants/necklace.html">Necklaces & Pendants</a></li>
+                <li><a href="../Bracelet/bracelet.html">Bracelets</a></li>
+                <li><a href="../earring/earring.html">Earrings</a></li>
+                <li><a href="../anklet/anklet.html">Anklets</a></li>
+                
+              </ul>
+            </li>
+            <li class="filter">
+              <a href="">Latest Collection</a>
+              <ul class="subFilter">
+                <li><a href="../wing of wonder/wing_of_wonder.html">Wings of Wonder</a></li>
+                <li><a href="../cherry pop/cherry_pop.html">Cherry Pop Collection</a></li>
+                <!-- <li><a href="./cherry pop/cherry_pop.html">Cherry Pop Collection</a>Vivah Da Swag</li> -->
+                <li><a href="../love paris/love_paris.html">Love in Paris</a></li>
+                <li><a href="../bhumi collection/bhumi_collection.html">The Bhumi Collection</a></li>
+                <li><a href="../convertible collection/convertible_collection.html">Convertible Collection</a></li>
+                <li><a href="../just arrived/just_arrived.html">Just Arrived</a></li>
+              </ul>
+            </li>
+            <li class="filter">
+              <a href="">Men's Jewellery</a>
+              <ul class="subFilter">
+                <a href="../mens all/mens_all.html"><li>All</li></a>
+                 <a href="../men rings/men_rings.html"><li>Rings</li></a>
+                <a href="../men pandents/men_pandents.html"> <li>Pendants</li></a>
+                 <a href="../men bracelets/men_bracelets.html"><li>Bracelets</li></a>
+                <a href="../men chains/men_chains.html"><li>Chains</li></a>
+               </ul>
+            </li>
+            <li class="filter">
+              <a href="">Gift Store</a>
+              <ul class="subFilter">
+                <li>SWARN Gift Store</li>
+                <li>Shop by Occasion</li>
+                <li>Shop by Theme</li>
+                <li>Shop by Recipient</li>
+                <li>Shop by Price</li>
+              </ul>
+            </li>
+            <li class="filter"><a href="">Gold with Lab Diamonds</a></li>
+            <li class="filter"><a href="">Offers</a></li>
+            <li class="filter"><a href="">More at Swarn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="nav-placeholder"></div>
+    </header>
+    <main>
+      <h1 class="heading" style="text-align: center;padding-top: 20px;">Your Jewellery Cart</h1>
+      <div class="container">
+        <div class="cart-items">
+        
+
+          <!-- Add more cart items as needed -->
+        </div>
+
+        <div class="order-summary">
+          <h2>Order Summary</h2>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 20px; margin-top: 10px;">
+            <span class="Estimated">Estimated Total:</span>
+            <span class="priceincart total-price">₹1,950.81</span>
+          </div>
+          <div style="font-size: large; display:flex; justify-content:space-between;">
+            <span>Shipping : </span>
+            <span style="color: green;">Free</span>
+          </div>
+
+          <!-- <div class="coupon-section">
+            <div class="coupon">
+              <strong>SAVE15</strong>
+              <p>Buy 2 & Get Flat 15% OFF</p>
+            </div>
+            <div class="coupon">
+              <strong>FLAT300</strong>
+              <p>Get Rs. 300 OFF on orders above Rs. 269</p>
+            </div>
+          </div> -->
+
+          <button class="checkout-btn">Checkout Securely</button>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      function formatPrice(price) {
+        return '₹' + price.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+      }
+
+      function updateTotalPrice() {
+        let totalBasePrice = 0;
+
+        document.querySelectorAll('.cart-item').forEach(item => {
+          const quantity = parseInt(item.querySelector('.quantity-controls span').textContent);
+          const basePrice = parseFloat(item.dataset.basePrice);
+          totalBasePrice += basePrice * quantity;
+        });
+
+        document.querySelector('.total-price').textContent = formatPrice(totalBasePrice);
+      }
+
+      document.querySelectorAll('.quantity-btn').forEach(button => {
+        button.addEventListener('click', function () {
+          const item = this.closest('.cart-item');
+          const quantitySpan = item.querySelector('.quantity-controls span');
+          let quantity = parseInt(quantitySpan.textContent);
+
+          if (this.textContent === '+' && quantity < 10) {
+            quantity++;
+          } else if (this.textContent === '-' && quantity > 1) {
+            quantity--;
+          }
+
+          quantitySpan.textContent = quantity;
+          updateTotalPrice();
+        });
+      });
+
+      document.querySelectorAll('.button-group button:first-child').forEach(button => {
+        button.addEventListener('click', function () {
+          this.closest('.cart-item').remove();
+          updateTotalPrice();
+        });
+      });
+
+      updateTotalPrice();
+    </script>
+  </body>
+  <script src="cart.js"></script>
+  <!-- <script src="../script.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</html>
